@@ -1,17 +1,16 @@
-[15:44:35] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
-[15:44:35] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
-[15:44:35] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
-[15:44:35] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
-[15:44:35] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
-[15:44:36] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tags.ItemTags.createOptional
-[15:44:42] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
-[15:44:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:44:44] [main/INFO]: Setting user: yougameMrPenis1337
-[15:44:44] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
-[15:44:45] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
-[15:44:45] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
-[15:44:45] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
-[15:44:45] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:34:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[15:34:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[15:34:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[15:34:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[15:34:49] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tags.ItemTags.createOptional
+[15:35:15] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[15:35:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:35:16] [main/INFO]: Setting user: yougameMrPenis1337
+[15:35:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[15:35:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[15:35:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[15:35:16] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+[15:35:16] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -19,7 +18,7 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:44:45] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:35:17] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -27,7 +26,7 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:44:45] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:35:17] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -35,8 +34,8 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:44:45] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
-[15:44:46] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:35:17] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
+[15:35:17] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -44,7 +43,7 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:44:47] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:35:17] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -52,185 +51,185 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:44:47] [main/INFO]: [OptiFine] 
-[15:44:47] [main/INFO]: [OptiFine] OptiFine_1.16.5_HD_U_G8
-[15:44:47] [main/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineResourceLocator
-[15:44:47] [main/INFO]: [OptiFine] Build: null
-[15:44:47] [main/INFO]: [OptiFine] OS: Windows 11 (amd64) version 10.0
-[15:44:47] [main/INFO]: [OptiFine] Java: 17.0.12, Amazon.com Inc.
-[15:44:47] [main/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode, sharing), Amazon.com Inc.
-[15:44:47] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL VisualC DLL
-[15:44:47] [main/INFO]: [OptiFine] OpenGL: Intel(R) HD Graphics 630, version 4.6.0 - Build 31.0.101.2125, Intel
-[15:44:47] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
-[15:44:47] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
-[15:44:47] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
-[15:44:47] [VersionCheck/INFO]: [OptiFine] Checking for new version
-[15:44:47] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 - Build 31.0.101.2125
-[15:44:47] [main/INFO]: [Shaders] Vendor:  Intel
-[15:44:47] [main/INFO]: [Shaders] Renderer: Intel(R) HD Graphics 630
-[15:44:47] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[15:44:47] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[15:44:47] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
-[15:44:47] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[15:44:47] [main/INFO]: [Shaders] Load shaders configuration.
-[15:44:47] [main/INFO]: [Shaders] Save shaders configuration.
-[15:44:47] [main/INFO]: [Shaders] No shaderpack loaded.
-[15:44:47] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
-[15:44:48] [VersionCheck/INFO]: [OptiFine] Version found: G7
-[15:44:49] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: sun.misc.SharedSecrets
-[15:44:49] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
-[15:44:49] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: sun.misc.VM
-[15:44:49] [main/WARN]: [OptiFine] java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to unnamed module @b9afc07
-[15:44:49] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
-[15:44:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
-[15:44:50] [main/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'SAPIWrapper_x64': Can't obtain InputStream for win32-x86-64/SAPIWrapper_x64.dll
+[15:35:18] [main/INFO]: [OptiFine] 
+[15:35:18] [main/INFO]: [OptiFine] OptiFine_1.16.5_HD_U_G8
+[15:35:18] [main/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineResourceLocator
+[15:35:18] [main/INFO]: [OptiFine] Build: null
+[15:35:18] [main/INFO]: [OptiFine] OS: Windows 11 (amd64) version 10.0
+[15:35:18] [main/INFO]: [OptiFine] Java: 17.0.13, Amazon.com Inc.
+[15:35:18] [main/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode, sharing), Amazon.com Inc.
+[15:35:18] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL VisualC DLL
+[15:35:18] [main/INFO]: [OptiFine] OpenGL: Intel(R) HD Graphics 630, version 4.6.0 - Build 31.0.101.2125, Intel
+[15:35:18] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[15:35:18] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[15:35:18] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[15:35:18] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[15:35:18] [VersionCheck/INFO]: [OptiFine] Version found: G7
+[15:35:18] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 - Build 31.0.101.2125
+[15:35:18] [main/INFO]: [Shaders] Vendor:  Intel
+[15:35:18] [main/INFO]: [Shaders] Renderer: Intel(R) HD Graphics 630
+[15:35:18] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[15:35:18] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[15:35:18] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[15:35:18] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[15:35:18] [main/INFO]: [Shaders] Load shaders configuration.
+[15:35:18] [main/INFO]: [Shaders] Save shaders configuration.
+[15:35:18] [main/INFO]: [Shaders] No shaderpack loaded.
+[15:35:18] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[15:35:19] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[15:35:19] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[15:35:19] [main/WARN]: [OptiFine] java.lang.ClassNotFoundException: sun.misc.VM
+[15:35:19] [main/WARN]: [OptiFine] java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to unnamed module @13a5fe33
+[15:35:19] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[15:35:21] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[15:35:22] [main/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'SAPIWrapper_x64': Can't obtain InputStream for win32-x86-64/SAPIWrapper_x64.dll
 ERROR : Couldn't load Narrator library : Unable to load library 'SAPIWrapper_x86': Can't obtain InputStream for win32-x86-64/SAPIWrapper_x86.dll
 
-[15:44:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
-[15:44:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
-[15:44:51] [main/INFO]: Reloading ResourceManager: Default
-[15:44:51] [main/INFO]: [OptiFine] *** Reloading textures ***
-[15:44:51] [main/INFO]: [OptiFine] Resource packs: Default
-[15:44:51] [Worker-Main-12/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
-[15:44:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
-[15:44:51] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
-[15:44:51] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
-[15:44:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.RenderTypeLookup.canRenderInLayer
-[15:44:58] [main/INFO]: [OptiFine] *** Reflector Forge ***
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveWorldEvent
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.BlockModelShapes.getTexture
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityType.getTags
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.fluid.Fluid.getTags
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.chunk.IChunk.getWorldForge
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyConflictContext
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyModifierAndCode
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.getKeyModifier
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.RenderTypeLookup.canRenderInLayer
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Constructor not present: net.minecraft.world.server.Ticket, params: class net.minecraft.world.server.TicketType, int, class java.lang.Object, boolean
-[15:44:58] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.server.Ticket.isForceTicks
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getCloudRenderHandler
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getSkyRenderHandler
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getWeatherParticleRenderHandler
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getWeatherRenderHandler
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.entity.PartEntity
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderGameOverlayEvent$BossInfo
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
-[15:44:59] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
-[15:44:59] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
-[15:45:00] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] Multipass connected textures: false
-[15:45:01] [Worker-Main-12/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[15:45:07] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 4
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:08] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[15:45:09] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[15:45:09] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
+[15:35:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
+[15:35:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[15:35:23] [main/INFO]: Reloading ResourceManager: Default
+[15:35:23] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:35:23] [main/INFO]: [OptiFine] Resource packs: Default
+[15:35:23] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[15:35:23] [Worker-Main-12/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[15:35:23] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[15:35:23] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[15:35:23] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.RenderTypeLookup.canRenderInLayer
+[15:35:25] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveWorldEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.BlockModelShapes.getTexture
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityType.getTags
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.fluid.Fluid.getTags
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.chunk.IChunk.getWorldForge
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyConflictContext
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyModifierAndCode
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.getKeyModifier
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.RenderTypeLookup.canRenderInLayer
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Constructor not present: net.minecraft.world.server.Ticket, params: class net.minecraft.world.server.TicketType, int, class java.lang.Object, boolean
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.server.Ticket.isForceTicks
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getCloudRenderHandler
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getSkyRenderHandler
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getWeatherParticleRenderHandler
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.world.DimensionRenderInfo.getWeatherRenderHandler
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.entity.PartEntity
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderGameOverlayEvent$BossInfo
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[15:35:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[15:35:25] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] Multipass connected textures: false
+[15:35:45] [Worker-Main-12/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[15:35:49] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 4
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
+[15:35:50] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
+[15:35:51] [main/INFO]: [STDERR]: [LWJGL] [ERROR] Incompatible Java and native library versions detected.
 Possible reasons:
 	a) -Djava.library.path is set to a folder containing shared libraries of an older LWJGL version.
 	b) The classpath contains jar files of an older LWJGL version.
@@ -238,70 +237,1643 @@ Possible solutions:
 	a) Make sure to not set -Djava.library.path (it is not needed for developing with LWJGL 3) or make
 	   sure the folder it points to contains the shared libraries of the correct LWJGL version.
 	b) Check the classpath and make sure to only have jar files of the same LWJGL version in it.
-[15:45:10] [main/INFO]: OpenAL initialized.
-[15:45:10] [main/INFO]: Sound engine started
-[15:45:10] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[15:45:14] [main/INFO]: [OptiFine] Animated sprites: 43
-[15:45:14] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:15] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:15] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:15] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:15] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:15] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[15:45:15] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:16] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[15:45:16] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:16] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[15:45:16] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:16] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[15:45:16] [main/INFO]: [OptiFine] Animated sprites: 0
-[15:45:16] [main/INFO]: [OptiFine] *** Reloading custom textures ***
-[15:45:18] [main/INFO]: [OptiFine] Disable Forge light pipeline
-[15:45:54] [main/INFO]: Connecting to mc.holyworld.me, 25565
-[15:45:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:45:56] [main/INFO]: [CHAT] ▶ Ожидайте завершения проверки... Пожалуйста, не двигайтесь.
-[15:45:58] [main/INFO]: [CHAT] ▶ Введите цифры с картинки в чат! Для открытия чата, нажмите <T>
-[15:46:15] [main/INFO]: [CHAT] ▶ Проверка пройдена. Приятной игры!
-[15:46:16] [main/INFO]: [CHAT] ▶ Авторизируйтесь - /login [Пароль]
-[15:46:16] [main/WARN]: Unknown custom packed identifier: minecraft:register
-[15:46:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:46:16] [main/WARN]: Unknown custom packed identifier: minecraft:register
-[15:46:17] [main/INFO]: Loaded 0 advancements
-[15:46:22] [main/INFO]: [CHAT] ▶ Авторизируйтесь - /login [Пароль]
-[15:46:22] [main/INFO]: [CHAT] (!) Успешный вход
-[15:46:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:46:22] [main/WARN]: Unknown custom packed identifier: minecraft:register
-[15:46:23] [main/INFO]: Loaded 0 advancements
-[15:46:27] [main/INFO]: [CHAT] ▍  Уважаемый игрок!\n▍ \n▍  Чтобы обезопасить себя от злоумышленников, и\n▍  иметь возможность бесплатно восстанавливать\n▍  пароль в случае: взлома, утере и т.п пароля,\n▍  привяжите свой аккаунт к группе!\n▍ \n▍  Подробнее: t.me/howorldBot (кликай по ссылке)\n
-[15:46:48] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
-[15:49:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:49:16] [main/WARN]: Unknown custom packed identifier: minecraft:register
-[15:49:16] [main/INFO]: Loaded 0 advancements
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
-[15:49:16] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
-[15:49:16] [main/INFO]: [CHAT]       
-[15:49:16] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
-[15:49:16] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
-[15:49:16] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
-[15:49:16] [main/INFO]: [CHAT] ▍ 
-[15:49:16] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
-[15:49:16] [main/INFO]: [CHAT]    
-[15:49:16] [main/INFO]: [CHAT]  ▶ Вы покинули территорию игрока 6ixxthug
-[15:49:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:49:17] [main/INFO]: [CHAT] ɢ | «стᴀжᴇр» _qOp_ Обмен? Ко мне!: сори я испугался тим творить дич
-[15:49:28] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
-[15:49:32] [main/INFO]: Stopping!
+[15:35:51] [main/INFO]: OpenAL initialized.
+[15:35:51] [main/INFO]: Sound engine started
+[15:35:51] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 43
+[15:35:53] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:53] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:53] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:53] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:53] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:53] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:35:53] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:54] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:35:55] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:55] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:35:55] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:55] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:35:55] [main/INFO]: [OptiFine] Animated sprites: 0
+[15:35:55] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[15:35:57] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[15:52:06] [main/WARN]: Unable to start LAN server detection: No route to host: setsocketopt
+[15:52:08] [main/INFO]: Connecting to mc.holyworld.me, 25565
+[15:52:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:10] [main/INFO]: [CHAT] ▶ Ожидайте завершения проверки... Пожалуйста, не двигайтесь.
+[15:52:13] [main/INFO]: [CHAT] ▶ Введите цифры с картинки в чат! Для открытия чата, нажмите <T>
+[15:52:37] [main/INFO]: Connecting to mc.holyworld.me, 25565
+[15:52:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:37] [main/INFO]: [CHAT] ▶ Ожидайте завершения проверки... Пожалуйста, не двигайтесь.
+[15:52:40] [main/INFO]: [CHAT] ▶ Введите цифры с картинки в чат! Для открытия чата, нажмите <T>
+[15:52:44] [main/INFO]: [CHAT] ▶ Проверка пройдена. Приятной игры!
+[15:52:46] [main/INFO]: [CHAT] ▶ Зарегистрируйтесь по команде - /register [Пароль] [Пароль]
+[15:52:46] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[15:52:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:46] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[15:52:47] [main/INFO]: Loaded 0 advancements
+[15:52:51] [main/INFO]: [CHAT] ▶ Зарегистрируйтесь по команде - /register [Пароль] [Пароль]
+[15:52:52] [main/INFO]: [CHAT] ▍ \n▍ Вы успешно зарегистрировались!\n▍ Ваш пароль: [Наведите]\n▍ \n
+[15:52:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:52] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[15:52:53] [main/INFO]: Loaded 0 advancements
+[15:52:57] [main/INFO]: [CHAT] ▍  Уважаемый игрок!\n▍ \n▍  Чтобы обезопасить себя от злоумышленников, и\n▍  иметь возможность бесплатно восстанавливать\n▍  пароль в случае: взлома, утере и т.п пароля,\n▍  привяжите свой аккаунт к группе!\n▍ \n▍  Подробнее: t.me/howorldBot (кликай по ссылке)\n
+[15:53:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:53:25] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[15:53:25] [main/INFO]: Loaded 0 advancements
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[15:53:25] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[15:53:25] [main/INFO]: [CHAT]       
+[15:53:25] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[15:53:25] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[15:53:25] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[15:53:25] [main/INFO]: [CHAT] ▍ 
+[15:53:25] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[15:53:25] [main/INFO]: [CHAT]    
+[15:53:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:53:29] [main/INFO]: [CHAT]  ▶ Игрок Kviku жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #27)
+[15:53:30] [main/INFO]: [CHAT] ɢ | Sigmaybica52: ?
+[15:53:35] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #22)
+[15:53:35] [main/INFO]: [CHAT]  
+[15:53:35] [main/INFO]: [CHAT]  Вы получили:
+[15:53:35] [main/INFO]: [CHAT]  
+[15:53:35] [main/INFO]: [CHAT]  - 100000 монет!
+[15:53:35] [main/INFO]: [CHAT]  - Премиум-статус на 7 дней!
+[15:53:35] [main/INFO]: [CHAT]  - Бустер все и сразу на сутки!
+[15:53:35] [main/INFO]: [CHAT]  
+[15:53:35] [main/INFO]: [CHAT]  * Промокод активируется навсегда, если ранее не выдавался
+[15:53:35] [main/INFO]: [CHAT]  
+[15:53:38] [main/INFO]: [CHAT]  
+[15:53:38] [main/INFO]: [CHAT]  Вы получили:
+[15:53:38] [main/INFO]: [CHAT]  
+[15:53:38] [main/INFO]: [CHAT]  - 1 ключ к бесплатному кейсу
+[15:53:38] [main/INFO]: [CHAT]  
+[15:53:38] [main/INFO]: [CHAT]  * Промокод активируется на время вайпа, если ранее не выдавался
+[15:53:38] [main/INFO]: [CHAT]  
+[15:53:38] [main/INFO]: [CHAT] ▶ Вы получили 1 ключей от кейса freecase2
+[15:53:47] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[15:53:49] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать якорь-возрождения здесь.
+[15:54:01] [main/INFO]: [CHAT] ɢ | heroNpik: all на моем ахе дешёвое взрывчитое вещество
+[15:54:30] [main/INFO]: [CHAT]  ▶ Игрок legitbob решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #1)
+[15:54:59] [main/INFO]: [CHAT] ▶ Нужно отыграть 5 м. для того чтобы пользоваться командами. (Прошло 1 м. 37 сек.§е)
+[15:55:02] [main/INFO]: [CHAT]  ▶ Игрок legitbob жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #1)
+[15:55:11] [main/INFO]: [CHAT] Казино включено.
+[15:55:11] [main/INFO]: [CHAT] ▶ Нужно отыграть 1 ч. для того чтобы пользоваться чатом. (Прошло 1 м. 49 сек.§е)
+[15:55:12] [main/INFO]: [CHAT] Казино выключено.
+[15:55:16] [main/INFO]: [CHAT] АвтоЛут включен.
+[15:55:18] [main/INFO]: [CHAT] АвтоЛут выключен.
+[15:55:19] [main/INFO]: [CHAT] АвтоЛут включен.
+[15:55:22] [main/INFO]: [CHAT]  ▶ Игрок Altezzzza ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #10)
+[15:55:29] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #5)
+[15:55:33] [main/INFO]: [CHAT] АвтоЛут выключен.
+[15:55:42] [main/INFO]: [CHAT] ▶ Вы успешно продали 633 (+633 поинтов к множителю) предметов и заработали 2278.8 монет. Ваш множитель теперь составляет: 1.0.
+[15:55:42] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤2278.80
+[15:55:48] [main/INFO]: [CHAT]  ▶ Игрок spr0yPro жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #5)
+[15:55:49] [main/INFO]: [CHAT]  ▶ Игрок daviftr решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #3)
+[15:56:08] [main/INFO]: [CHAT]  ▶ Игрок uhuuuh5 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #3)
+[15:56:23] [main/INFO]: [CHAT] ▶ Нужно отыграть 5 м. для того чтобы пользоваться командами. (Прошло 3 м.§е)
+[15:56:25] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[15:56:39] [main/INFO]: [CHAT]  ▶ Игрок daviftr жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #3)
+[15:56:39] [main/INFO]: [CHAT]  ▶ Игрок KLauncher_mrysas жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #9)
+[15:56:40] [main/INFO]: [CHAT] ◀                                                                        ▶
+[15:56:40] [main/INFO]: [CHAT]    PvPeeSPOrts выиграл 500 ☀ из Кейса с сапфирами
+[15:56:40] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[15:56:40] [main/INFO]: [CHAT] ◀                               Лайт-20                                ▶
+[15:56:55] [main/INFO]: [CHAT]  ▶ Игрок sanjar2 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #10)
+[15:57:30] [main/INFO]: [CHAT]  ▶ Игрок platonboch жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #2)
+[15:57:46] [main/INFO]: [CHAT]  ▶ Игрок KLauncher_mrysas жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #9)
+[15:57:48] [main/INFO]: [CHAT] ▶ Нужно отыграть 5 м. для того чтобы пользоваться командами. (Прошло 4 м. 25 сек.§е)
+[15:58:17] [main/INFO]: [CHAT] ▶ Нужно отыграть 5 м. для того чтобы пользоваться командами. (Прошло 4 м. 54 сек.§е)
+[15:58:21] [main/INFO]: [CHAT] ▶ Нужно отыграть 5 м. для того чтобы пользоваться командами. (Прошло 4 м. 59 сек.§е)
+[15:58:24] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[15:58:27] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[15:58:30] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[15:58:30] [main/INFO]: [CHAT]  ▶ Игрок Kviku ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #25)
+[15:58:46] [main/INFO]: [CHAT] ▶ Kurmet купил Enchanted Golden Apple x1 за 89999.
+[15:58:46] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[15:58:48] [main/INFO]: [CHAT] ɢ | «ᴜᴄʜɪʜᴀ ᴍᴀᴅᴀʀᴀ» ~myrv1n1 найк про: тепните на уник данж пж
+[15:58:52] [main/INFO]: [CHAT]  ▶ Игрок _RinegGG_ ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #13)
+[15:58:55] [main/INFO]: [CHAT]  ▶ Игрок IwantOneHeart ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #25)
+[15:58:56] [main/INFO]: [CHAT] ɢ | T041LkA_zxc: алл скупаю обсу по 30к за стал, выставляйте
+[15:59:06] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[15:59:10] [main/INFO]: [CHAT] ▶ Warli_ber купил Enchanted Golden Apple x1 за 89999.
+[15:59:10] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[15:59:11] [main/INFO]: [CHAT] ▶ Warli_ber купил Enchanted Golden Apple x1 за 89999.
+[15:59:11] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[15:59:29] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» SweetSnoopy: Кто купит мне дк за 8кк + бр элики + 2 тотема? ФАСТ
+[15:59:31] [main/INFO]: [CHAT]  ▶ Игрок ZetherFa6les_ решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #5)
+[15:59:32] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #22)
+[15:59:32] [main/INFO]: [CHAT] ɢ | «ᴜᴄʜɪʜᴀ ᴍᴀᴅᴀʀᴀ» ~myrv1n1 найк про: BanCheat
+[15:59:38] [main/INFO]: [CHAT] ɢ | «стᴀжᴇр» neskywhywolker сделал себя сам: он занят
+[15:59:39] [main/INFO]: [CHAT]  ▶ Игрок _RinegGG_ ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #13)
+[15:59:55] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» SweetSnoopy: Кто купит мне дк за 8кк + бр элики + 2 тотема? ФАСТ
+[16:00:08] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #46)
+[16:00:11] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» ldhckgo:  Куплю фармер 3-4 за коины пишите в тг @byxalayra
+[16:00:16] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:00:16] [main/INFO]: [CHAT]    TheLastKiss выиграл «sᴛɪɴɢᴇʀ» (1 мес.) из Донат-кейса
+[16:00:16] [main/INFO]: [CHAT]    Удача: +30% | Покупка кейсов здесь: HolyWorld.ru
+[16:00:16] [main/INFO]: [CHAT] ◀                               Лайт-2                                ▶
+[16:00:21] [main/INFO]: [CHAT] ʟ | SSIGMA123: e
+[16:00:25] [main/INFO]: [CHAT]  ▶ Игрок Djorno_ жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[16:01:17] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» aristokrat02: скуплю стаками ред.блоки за 50к
+[16:01:26] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:01:34] [main/INFO]: [CHAT]  ▶ Игрок Xusan_2010 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #51)
+[16:01:34] [main/INFO]: [CHAT] ɢ | «ᴋʀᴀᴋᴇɴ» CITRUS_GT: блок редстоуна?
+[16:01:59] [main/INFO]: [CHAT]  ▶ Игрок legitbob решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #1)
+[16:02:14] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #22)
+[16:02:42] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» Pro1007unex пидисят двааа: neskywhywolker q
+[16:02:45] [main/INFO]: [CHAT]  ▶ Игрок Xusan_2010 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #51)
+[16:02:47] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:02:54] [main/INFO]: [CHAT] Автобай включен.
+[16:02:58] [main/INFO]: [CHAT] ɢ | «стᴀжᴇр» neskywhywolker сделал себя сам: q
+[16:03:00] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока bezna6w6 за 60000.
+[16:03:00] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[16:03:02] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока v_zerkalo_che1 за 90000.
+[16:03:02] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤90000.00
+[16:03:06] [main/INFO]: [CHAT] Автобай выключен.
+[16:03:16] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #50)
+[16:03:25] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x9
+[16:03:28] [main/INFO]: [CHAT] ▶ ahzeli купил Gunpowder x9 за 179991.
+[16:03:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179991.00
+[16:03:29] [main/INFO]: [CHAT]  ▶ Игрок Altezzzza решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #10)
+[16:03:39] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:03:39] [main/INFO]: [CHAT]    zxc_vslomali3ras выиграл 1000 ☀ ДЖЕКПОТ! из Кейса с сапфирами
+[16:03:39] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[16:03:39] [main/INFO]: [CHAT] ◀                               Лайт-22                                ▶
+[16:03:40] [main/INFO]: [CHAT] Автобай включен.
+[16:04:04] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока Makcik_190919 за 100000.
+[16:04:04] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:04:07] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #50)
+[16:04:07] [main/INFO]: [CHAT]  ▶ Игрок legitbob ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #1)
+[16:04:08] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока artemplay093902 за 30000.
+[16:04:08] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤30000.00
+[16:04:23] [main/INFO]: [CHAT] ɢ | heroNpik: all на моем взрывчатое вещество за 220к монет1
+[16:04:23] [main/INFO]: [CHAT] Автобай выключен.
+[16:04:27] [main/INFO]: [CHAT] ɢ | heroNpik: all на моем взрывчатое вещество за 220к монет!
+[16:04:31] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x9
+[16:04:38] [main/INFO]: [CHAT] Автобай включен.
+[16:04:39] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока kombat211 за 65000.
+[16:04:39] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤65000.00
+[16:04:40] [main/INFO]: [CHAT] Автобай выключен.
+[16:04:46] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:04:51] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:04:56] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» aristokrat02: скуплю стаками ред.блоки за 50к
+[16:04:56] [main/INFO]: [CHAT] ▶ _frog_mom купил Enchanted Golden Apple x1 за 89999.
+[16:04:56] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:05:02] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» SweetSnoopy: как купить дк за койны?
+[16:05:03] [main/INFO]: [CHAT]  ▶ Игрок spr0yPro ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #5)
+[16:05:12] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x9
+[16:05:14] [main/INFO]: [CHAT] ▶ LeGiOHeP купил Gunpowder x9 за 179991.
+[16:05:14] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179991.00
+[16:05:16] [main/INFO]: [CHAT]  ▶ Игрок legitbob жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #1)
+[16:05:17] [main/INFO]: [CHAT] Автобай включен.
+[16:05:17] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока fantom1105 за 70000.
+[16:05:17] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:05:19] [main/INFO]: [CHAT] Автобай выключен.
+[16:05:23] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:05:28] [main/INFO]: [CHAT] Автобай включен.
+[16:05:29] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Gunpowder у игрока artemplay093902 за 30000.
+[16:05:29] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤30000.00
+[16:05:41] [main/INFO]: [CHAT] 
+[16:05:41] [main/INFO]: [CHAT] ▶ Опытный Тыпо появится через 3 минуты на рандомных координатах.
+[16:05:41] [main/INFO]: [CHAT] 
+[16:06:03] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока Burdyga за 100000.
+[16:06:03] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:06:09] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока xFloud за 99000.
+[16:06:09] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤99000.00
+[16:06:11] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» SweetSnoopy: как купить дк за койны?
+[16:06:12] [main/INFO]: [CHAT]  ▶ Игрок ZetherFa6les_ решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #6)
+[16:06:20] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:06:20] [main/INFO]: [CHAT]    SSIGMA123 выиграл «ɢʜᴀsᴛ» (1 мес.) из Донат-кейса
+[16:06:20] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[16:06:20] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:06:20] [main/INFO]: [CHAT] Автобай выключен.
+[16:06:20] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: all nmmeil soft vidit invizok
+[16:06:21] [main/INFO]: [CHAT] [Объявление] all продам мечту шахтёра за коины писать в телеграмм: @Pelmen_frog (Автор: greyrok)
+[16:06:32] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: all nmmeil soft vidit invizok
+[16:06:32] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x14
+[16:06:33] [main/INFO]: [CHAT] ▶ ilhaspirichev купил Enchanted Golden Apple x1 за 89999.
+[16:06:33] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:06:51] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:06:58] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x14
+[16:07:00] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:07:00] [main/INFO]: [CHAT] ▶ LeGiOHeP купил Gunpowder x14 за 279986.
+[16:07:00] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤279986.00
+[16:07:02] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:07:04] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:07:04] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:07:05] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:07:10] [main/INFO]: [CHAT] Автобай включен.
+[16:07:22] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» SweetSnoopy: Кто купит мне дк за 8кк + бр элики + 2 тотема? ФАСТ
+[16:07:23] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #1)
+[16:07:34] [main/INFO]: [CHAT] ▶ Вы успешно купили x20 Enchanted Golden Apple у игрока ssShinzoiii за 400000.
+[16:07:34] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤400000.00
+[16:07:36] [main/INFO]: [CHAT] Автобай выключен.
+[16:07:39] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #51)
+[16:07:47] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:07:50] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:07:53] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:07:57] [main/INFO]: [CHAT] ▶ 0iq_M0vement купил Enchanted Golden Apple x1 за 89999.
+[16:07:57] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:07:59] [main/INFO]: [CHAT] ▶ 0iq_M0vement купил Enchanted Golden Apple x1 за 89999.
+[16:07:59] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:08:10] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:14] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:14] [main/INFO]: [CHAT] ɢ | kraken_tt322: сука
+[16:08:16] [main/INFO]: [CHAT] ʟ | «ɢʜᴀsᴛ» SweetSnoopy: пхпх
+[16:08:28] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[16:08:36] [main/INFO]: [CHAT] ▶ Maghat купил Enchanted Golden Apple x1 за 89999.
+[16:08:36] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:08:37] [main/INFO]: [CHAT]  ▶ Игрок Kurmet жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #49)
+[16:08:40] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:42] [main/INFO]: [CHAT]  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[16:08:42] [main/INFO]: [CHAT]  ▍ Опытный Тыпо
+[16:08:42] [main/INFO]: [CHAT]  ▍
+[16:08:42] [main/INFO]: [CHAT]  ▍ Редкость: Обычная
+[16:08:42] [main/INFO]: [CHAT]  ▍ Координаты: 121 68 193
+[16:08:42] [main/INFO]: [CHAT]  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[16:08:43] [main/INFO]: [CHAT] ▶ love1337mather купил Enchanted Golden Apple x1 за 89999.
+[16:08:43] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:08:44] [main/INFO]: [CHAT]  ▶ Игрок Kurmet решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #49)
+[16:08:46] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #1)
+[16:08:46] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:49] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:51] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:08:51] [main/INFO]: [CHAT] ʟ | «ɢʜᴀsᴛ» SSIGMA123: d
+[16:08:53] [main/INFO]: [CHAT] [Объявление] Привет. Ищу адекватного тимейта от 15 лет. Писать в дс nomad723 (Автор: Red_Daisy)
+[16:08:53] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» bers1234: продам 4 фаремер дс:haze03708
+[16:08:58] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:08:59] [main/INFO]: [CHAT] ▶ horzi1488 купил Enchanted Golden Apple x1 за 89999.
+[16:08:59] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:00] [main/INFO]: [CHAT] ▶ xxKON1k купил Enchanted Golden Apple x1 за 89999.
+[16:09:00] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:01] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:04] [main/INFO]: [CHAT] ▶ xxKON1k купил Enchanted Golden Apple x1 за 89999.
+[16:09:04] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:04] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:07] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:09] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:09:25] [main/INFO]: [CHAT]  ▶ Игрок autohotdog1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[16:09:28] [main/INFO]: [CHAT] ▶ iatin купил Enchanted Golden Apple x1 за 89999.
+[16:09:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:29] [main/INFO]: [CHAT] ▶ iatin купил Enchanted Golden Apple x1 за 89999.
+[16:09:29] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:33] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:36] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:38] [main/INFO]: [CHAT] ▶ imba_imba222 купил Enchanted Golden Apple x1 за 89999.
+[16:09:38] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:40] [main/INFO]: [CHAT] ▶ imba_imba222 купил Enchanted Golden Apple x1 за 89999.
+[16:09:40] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:41] [main/INFO]: [CHAT] ▶ iatin купил Enchanted Golden Apple x1 за 89999.
+[16:09:41] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:09:41] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:44] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:47] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:09:59] [main/INFO]: [CHAT]  ▶ Игрок Kurmet жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #49)
+[16:10:15] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #1)
+[16:10:17] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:10:17] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:10:18] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:18] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:10:18] [main/INFO]: [CHAT]  ▶ Игрок progbis ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #49)
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] (!) Не так быстро!
+[16:10:19] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:10:23] [main/INFO]: [CHAT]  ▶ Игрок autohotdog1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[16:10:25] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:28] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:30] [main/INFO]: [CHAT] ▶ FUADKING купил Enchanted Golden Apple x1 за 89999.
+[16:10:30] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:10:30] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:33] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:36] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:39] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:10:41] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:10:45] [main/INFO]: [CHAT]  ▶ Игрок fanat_pvp ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #46)
+[16:10:48] [main/INFO]: [CHAT] Автобай включен.
+[16:10:48] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:10:48] [main/INFO]: [CHAT]    papageke выиграл «sᴛɪɴɢᴇʀ» (1 мес.) из Донат-кейса
+[16:10:48] [main/INFO]: [CHAT]    Удача: +30% | Покупка кейсов здесь: HolyWorld.ru
+[16:10:48] [main/INFO]: [CHAT] ◀                               Лайт-25                                ▶
+[16:10:52] [main/INFO]: [CHAT] 
+[16:10:52] [main/INFO]: [CHAT] ▶ Открой новый мир возможностей для работы и веселья!
+[16:10:52] [main/INFO]: [CHAT]  Присоединяйся к нашей команде,
+[16:10:52] [main/INFO]: [CHAT]  чтобы помочь защитить сервер и принять
+[16:10:52] [main/INFO]: [CHAT]  участие в закрытых ивентах. Здесь ты найдешь не только 
+[16:10:52] [main/INFO]: [CHAT]  новых друзей, но и увлекательную работу: https://vk.cc/cquCZ7
+[16:10:52] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока masik_9187 за 120000.
+[16:10:52] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[16:10:54] [main/INFO]: [CHAT]  ▶ Игрок PaZiTiV33 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #5)
+[16:10:56] [main/INFO]: [CHAT] ▶ Вы успешно купили x11 Gunpowder у игрока PVGRENDA за 139999.
+[16:10:56] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤139999.00
+[16:11:00] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #1)
+[16:11:09] [main/INFO]: [CHAT] ▶ haytxa2014 купил Enchanted Golden Apple x1 за 89999.
+[16:11:09] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:11:12] [main/INFO]: [CHAT] Автобай выключен.
+[16:11:24] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x18
+[16:11:26] [main/INFO]: [CHAT] ʟ | kebabbabek: можно железо?
+[16:11:28] [main/INFO]: [CHAT] ▶ ahzeli купил Gunpowder x18 за 359982.
+[16:11:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤359982.00
+[16:11:32] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:11:35] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:11:43] [main/INFO]: [CHAT] ʟ | kebabbabek: спасибо
+[16:11:48] [main/INFO]: [CHAT] Автобай включен.
+[16:11:50] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 - Меч ᴇᴛᴇʀɴɪᴛʏ - у игрока ice_one_eblan01 за 800000.
+[16:11:50] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤800000.00
+[16:11:51] [main/INFO]: [CHAT] Автобай выключен.
+[16:12:04] [main/INFO]: [CHAT] ▶ Kamazzov купил Enchanted Golden Apple x1 за 89999.
+[16:12:04] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:12:28] [main/INFO]: [CHAT]  ▶ Игрок progbis жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #49)
+[16:12:28] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #22)
+[16:12:47] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу - Меч ᴇᴛᴇʀɴɪᴛʏ - x1
+[16:13:07] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:13:13] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу - Меч ᴇᴛᴇʀɴɪᴛʏ - x1
+[16:13:20] [main/INFO]: [CHAT] ɢ | «ᴅʀᴀɢᴏɴ» krosov_ok ʟᴇɢᴇɴᴅᴀʀʏ ʏᴇᴀʀ: продам нерушимку фул чары (даже фильтр) писать в тг: krosov_ok
+[16:13:20] [main/INFO]: [CHAT] Автобай включен.
+[16:13:21] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:22] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:23] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:24] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:25] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:26] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:13:26] [main/INFO]: [CHAT] ▶ pfpbr купил Enchanted Golden Apple x1 за 89999.
+[16:13:26] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:13:27] [main/INFO]: [CHAT] ▶ Вы успешно купили x12 Enchanted Golden Apple у игрока pink_tract69r за 857142.
+[16:13:27] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤857142.00
+[16:13:27] [main/INFO]: [CHAT] ▶ pfpbr купил Enchanted Golden Apple x1 за 89999.
+[16:13:27] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:13:28] [main/INFO]: [CHAT] ▶ pfpbr купил Enchanted Golden Apple x1 за 89999.
+[16:13:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:13:29] [main/INFO]: [CHAT] ▶ pfpbr купил Enchanted Golden Apple x1 за 89999.
+[16:13:29] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:13:29] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока Thestrongerman за 50000.
+[16:13:29] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:13:32] [main/INFO]: [CHAT] Автобай выключен.
+[16:13:54] [main/INFO]: [CHAT]  ▶ Игрок fanat_pvp жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #48)
+[16:13:58] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x5
+[16:14:00] [main/INFO]: [CHAT] ▶ palma747 купил - Меч ᴇᴛᴇʀɴɪᴛʏ - x1 за 999999.
+[16:14:00] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤999999.00
+[16:14:13] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:15] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:20] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:23] [main/INFO]: [CHAT] ▶ StealxSmtY купил Enchanted Golden Apple x1 за 89999.
+[16:14:23] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:24] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:25] [main/INFO]: [CHAT] ▶ StealxSmtY купил Enchanted Golden Apple x1 за 89999.
+[16:14:25] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:25] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:14:25] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:27] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:27] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:14:27] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:29] [main/INFO]: [CHAT] ▶ mikklq купил Enchanted Golden Apple x1 за 89999.
+[16:14:29] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:30] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:32] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:32] [main/INFO]: [CHAT] ▶ _GANYMED_ купил Enchanted Golden Apple x1 за 89999.
+[16:14:32] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:34] [main/INFO]: [CHAT] ▶ haytxa2014 купил Enchanted Golden Apple x1 за 89999.
+[16:14:34] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:14:35] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:37] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:42] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:42] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x5 за 99995.
+[16:14:42] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤99995.00
+[16:14:45] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:48] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:14:50] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:14:54] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:14:54] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:14:58] [main/INFO]: [CHAT]  ▶ Игрок IwantOneHeart жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #15)
+[16:15:07] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #22)
+[16:15:10] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x3
+[16:15:17] [main/INFO]: [CHAT] Автобай включен.
+[16:15:27] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока Lipton3231 за 100000.
+[16:15:27] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:15:28] [main/INFO]: [CHAT] ▶ orange_tract4r купил Enchanted Golden Apple x1 за 89999.
+[16:15:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:15:29] [main/INFO]: [CHAT] ▶ orange_tract4r купил Enchanted Golden Apple x3 за 269997.
+[16:15:29] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤269997.00
+[16:15:33] [main/INFO]: [CHAT] ▶ satanistolegavi4 купил Enchanted Golden Apple x1 за 89999.
+[16:15:33] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:15:37] [main/INFO]: [CHAT]  ▶ Игрок progbis жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #49)
+[16:15:51] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока sdwasdwsww12 за 120000.
+[16:15:51] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[16:15:52] [main/INFO]: [CHAT] Автобай выключен.
+[16:15:57] [main/INFO]: [CHAT] ʟ | korobkf: какую привелегия можети выдать за 5кк
+[16:15:58] [main/INFO]: [CHAT]  ▶ Игрок progbis решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #49)
+[16:16:09] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x15
+[16:16:17] [main/INFO]: [CHAT] Автобай включен.
+[16:16:18] [main/INFO]: [CHAT]  ▶ Игрок progbis ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #49)
+[16:16:19] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока lox_pvp101 за 100000.
+[16:16:19] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:16:19] [main/INFO]: [CHAT] ▶ Pavlo43556 купил Enchanted Golden Apple x1 за 89999.
+[16:16:19] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:16:20] [main/INFO]: [CHAT] Автобай выключен.
+[16:16:26] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x15 за 299985.
+[16:16:26] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤299985.00
+[16:16:35] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x6
+[16:16:40] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать якорь-возрождения здесь.
+[16:16:41] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать якорь-возрождения здесь.
+[16:16:42] [main/INFO]: [CHAT] ▶ У вас нет ключей для кейса.\n   Можете купить их на сайте: HolyWorld.ru
+[16:17:01] [main/INFO]: [CHAT] ▶ Игрок vasvolen0708 покинул игру во время ПВП и был наказан.
+[16:17:10] [main/INFO]: [CHAT] Автобай включен.
+[16:17:11] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока loodf за 110000.
+[16:17:11] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤110000.00
+[16:17:13] [main/INFO]: [CHAT] Автобай выключен.
+[16:17:17] [main/INFO]: [CHAT] ▶ emakot купил Gunpowder x6 за 119994.
+[16:17:17] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤119994.00
+[16:17:24] [main/INFO]: [CHAT] Автобай включен.
+[16:17:24] [main/INFO]: [CHAT] Автобай выключен.
+[16:17:28] [main/INFO]: [CHAT] ▶ Нужно отыграть 1 ч. для того чтобы пользоваться чатом. (Прошло 24 м. 5 сек.§е)
+[16:17:38] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x8
+[16:17:42] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» Flain12: какая редкость тыпо
+[16:18:01] [main/INFO]: [CHAT]  ▶ Игрок feri_nik жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #4)
+[16:18:18] [main/INFO]: [CHAT] ʟ | nmmeil: porn
+[16:18:23] [main/INFO]: [CHAT] ▶ Pam3ah8377 купил Gunpowder x8 за 159992.
+[16:18:23] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤159992.00
+[16:18:29] [main/INFO]: [CHAT] ʟ | nmmeil: porno
+[16:18:33] [main/INFO]: [CHAT]  ▶ О Господи! orex2020s разорвал в клочья feri_nik! Кровавая битва окончилась победой orex2020s!
+[16:18:34] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:18:36] [main/INFO]: [CHAT] ɢ | nmmeil: porno
+[16:18:45] [main/INFO]: [CHAT] ɢ | orex2020s: feri_nik
+[16:18:46] [main/INFO]: [CHAT] Автобай включен.
+[16:18:48] [main/INFO]: [CHAT] ▶ Вы успешно купили x25 Gunpowder у игрока _BedWars_izigg за 400000.
+[16:18:48] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤400000.00
+[16:18:50] [main/INFO]: [CHAT] ɢ | orex2020s: бронь вернуть?
+[16:18:54] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока sdwasdwsww12 за 70000.
+[16:18:54] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:19:03] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока pionergy за 100000.
+[16:19:03] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:19:07] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» Roylim1: продам 3 фармер писать в дс itsmefly
+[16:19:10] [main/INFO]: [CHAT] Автобай выключен.
+[16:19:32] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x36
+[16:19:37] [main/INFO]: [CHAT] ▶ ahzeli купил Gunpowder x36 за 719964.
+[16:19:37] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤719964.00
+[16:19:39] [main/INFO]: [CHAT] Автобай включен.
+[16:19:43] [main/INFO]: [CHAT] ʟ | feri_nik: спасибо
+[16:19:58] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока bezna6w6 за 120000.
+[16:19:58] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[16:20:27] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» Chaplis22288 sᴛᴀғғ ᴀᴄᴛɪᴠᴇ ✧˖°: идет набор в клан пвп и пве игроков главные критерии большой онлайн и игра всегда в войсе с соклановцами готовим большой план на след вайп будем строить мегофармы рейдить топеров главное это ваша помошь и желание писать в дс capli_mamkysq
+[16:20:29] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» Flain12: какая редкость тыпо
+[16:20:30] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #5)
+[16:20:31] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока ratya_ya за 90000.
+[16:20:31] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤90000.00
+[16:20:42] [main/INFO]: [CHAT]  ▶ Игрок IwantOneHeart жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #16)
+[16:20:42] [main/INFO]: [CHAT] Автобай выключен.
+[16:20:52] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Netherite Ingot у игрока vladfghhfg за 70000.
+[16:20:52] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:20:59] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Netherite Ingot x1
+[16:21:02] [main/INFO]: [CHAT] ʟ | korobkf: от души
+[16:21:13] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x15
+[16:21:35] [main/INFO]: [CHAT] ɢ | heroNpik: all все быстро на мой ах, пока не скупили дешёвые взрывчитые вещество!
+[16:21:41] [main/INFO]: [CHAT] Автобай включен.
+[16:21:48] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr zxcskufyara soft
+[16:21:49] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #51)
+[16:21:52] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока Misya_120fps за 70000.
+[16:21:52] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:21:54] [main/INFO]: [CHAT] ▶ faker23 купил Gunpowder x15 за 299985.
+[16:21:54] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤299985.00
+[16:21:55] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr zxcskufyara soft нищий софттттт
+[16:21:55] [main/INFO]: [CHAT] Автобай выключен.
+[16:21:57] [main/INFO]: [CHAT] ʟ | korobkf: выдайте донад за 5кк
+[16:21:57] [main/INFO]: [CHAT]  ▶ Игрок Fanix09 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #16)
+[16:21:59] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr zxcskufyara soft нищий софттттт
+[16:22:02] [main/INFO]: [CHAT] Автобай включен.
+[16:22:06] [main/INFO]: [CHAT] ɢ | zxcskufyara: mute
+[16:22:06] [main/INFO]: [CHAT]  ▶ Игрок pve_Kapibara_pvp ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #29)
+[16:22:30] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока gpsss за 50000.
+[16:22:30] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:22:31] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» em0dou Мать Анархии: f[f[f
+[16:22:43] [main/INFO]: [CHAT] Автобай выключен.
+[16:22:43] [main/INFO]: [CHAT] ɢ | «ᴋʀᴀᴋᴇɴ» CITRUS_GT: ezzz
+[16:22:49] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr zxcskufyara soft нищий софттттт
+[16:22:55] [main/INFO]: [CHAT] Автобай включен.
+[16:22:56] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока gyuj за 50000.
+[16:22:56] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:22:58] [main/INFO]: [CHAT] ▶ Вы успешно купили x10 Gunpowder у игрока sisidsdadawds за 177000.
+[16:22:58] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤177000.00
+[16:23:18] [main/INFO]: [CHAT]  ▶ Игрок fanat_pvp ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #48)
+[16:23:20] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока Stiw015 за 50000.
+[16:23:20] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:23:39] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока dogcat1414 за 70000.
+[16:23:39] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:23:41] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Enchanted Golden Apple у игрока Mefabsosute за 200000.
+[16:23:41] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤200000.00
+[16:23:46] [main/INFO]: [CHAT] Автобай выключен.
+[16:23:54] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr kava_da_ia soft
+[16:23:55] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:23:58] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:23:59] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[16:24:00] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[16:24:01] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[16:24:05] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:24:07] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:24:10] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:24:14] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:24:15] [main/INFO]: [CHAT] ▶ AMV_Asta купил Enchanted Golden Apple x1 за 89999.
+[16:24:15] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:24:16] [main/INFO]: [CHAT] ▶ _NEWtopik_ купил Enchanted Golden Apple x1 за 89999.
+[16:24:16] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:24:20] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:24:20] [main/INFO]: [CHAT] ▶ _NEWtopik_ купил Enchanted Golden Apple x1 за 89999.
+[16:24:20] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:24:20] [main/INFO]: [CHAT]  ▶ Игрок imba_imba222 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #11)
+[16:24:35] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x29
+[16:24:41] [main/INFO]: [CHAT] Автобай включен.
+[16:25:05] [main/INFO]: [CHAT] ɢ | drandulet_na: all /cr kava_da_ia soft
+[16:25:10] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Enchanted Golden Apple у игрока Tuxone4ka за 449999.
+[16:25:10] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤449999.00
+[16:25:13] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока Nunnez за 67000.
+[16:25:13] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤67000.00
+[16:25:16] [main/INFO]: [CHAT] Автобай выключен.
+[16:25:23] [main/INFO]: [CHAT] ɢ | drandulet_na: kava нищийййй
+[16:25:28] [main/INFO]: [CHAT] ɢ | heroNpik: all на моем ахе 1 стак пороха за 1кк 300к монет!
+[16:25:41] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:25:44] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:25:46] [main/INFO]: [CHAT] ▶ Вы больше не можете выставить предметы на продажу. Снимите с продажи старые, чтобы продолжить торговать.
+[16:25:51] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:25:51] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:25:52] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:25:53] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:25:56] [main/INFO]: [CHAT] ɢ | drandulet_na: ++++
+[16:26:01] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:02] [main/INFO]: [CHAT] ▶ LeGiOHeP купил Gunpowder x29 за 579971.
+[16:26:02] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤579971.00
+[16:26:03] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:06] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:09] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:12] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:13] [main/INFO]: [CHAT] ▶ Nkita_solo купил Enchanted Golden Apple x1 за 89999.
+[16:26:13] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:15] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:16] [main/INFO]: [CHAT] ɢ | drandulet_na: мр док так разве эт не ты его тепнул?
+[16:26:28] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:26:28] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:26:41] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» vladvlajniy: f
+[16:26:44] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:44] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:46] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:46] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:47] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:49] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:49] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:50] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:51] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:51] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:51] [main/INFO]: [CHAT] ▶ vasvolen0708 купил Enchanted Golden Apple x1 за 89999.
+[16:26:51] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:52] [main/INFO]: [CHAT]  ▶ Игрок DeadGuy389 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #47)
+[16:26:53] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» _Mr_Dok_: ты ебанулся я стоял метки удолял это уебище на эликах залетело
+[16:26:53] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:53] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:54] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:26:55] [main/INFO]: [CHAT] ▶ husu купил Enchanted Golden Apple x1 за 89999.
+[16:26:55] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:26:57] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:26:58] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:26:59] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:26:59] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:27:00] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:27:02] [main/INFO]: [CHAT] ▶ berlingg купил Enchanted Golden Apple x1 за 89999.
+[16:27:02] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:27:04] [main/INFO]: [CHAT] ɢ | drandulet_na: мр док так разве эт не ты его тепнул?
+[16:27:15] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:27:16] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя использовать это здесь.
+[16:27:23] [main/INFO]: [CHAT] Автобай включен.
+[16:27:28] [main/INFO]: [CHAT] ɢ | heroNpik: all купите пж на моем ахе броневую элитру за 1кк 300к монет!
+[16:27:29] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» foxel_953 [ɪɴғɪɴɪᴛʏ]: Куплю корды фармилок писать в дс-foxel9999
+[16:27:39] [main/INFO]: [CHAT] ɢ | Xaskit777: - ez
+[16:28:00] [main/INFO]: [CHAT] ▶ Вы успешно купили x12 Gunpowder у игрока nikplay_ori за 150000.
+[16:28:00] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤150000.00
+[16:28:11] [main/INFO]: [CHAT]  ▶ Игрок _RinegGG_ жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #39)
+[16:28:13] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока amabed за 50000.
+[16:28:13] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:28:28] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:28:28] [main/INFO]: [CHAT]    Leonja2210 выиграл «sᴛɪɴɢᴇʀ» (1 мес.) из Донат-кейса
+[16:28:28] [main/INFO]: [CHAT]    Удача: +30% | Покупка кейсов здесь: HolyWorld.ru
+[16:28:28] [main/INFO]: [CHAT] ◀                               Лайт-4                                ▶
+[16:28:29] [main/INFO]: [CHAT]  ▶ Игрок qwqskl жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #51)
+[16:28:30] [main/INFO]: [CHAT] Автобай выключен.
+[16:28:31] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[16:28:49] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x15
+[16:28:52] [main/INFO]: [CHAT] ▶ LeGiOHeP купил Gunpowder x15 за 299985.
+[16:28:52] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤299985.00
+[16:28:55] [main/INFO]: [CHAT] Автобай включен.
+[16:29:20] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:29:20] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока npocta_kupa за 50000.
+[16:29:30] [main/INFO]: [CHAT] ɢ | Xaskit777: all мой /ah дешовые лег сферы
+[16:29:42] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока zxc_meeks за 89999.
+[16:29:42] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤89999.00
+[16:29:44] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:29:44] [main/INFO]: [CHAT]    rytiks выиграл «ᴇᴛᴇʀɴɪᴛʏ» (1 мес.) из Донат-кейса
+[16:29:44] [main/INFO]: [CHAT]    Удача: +15% | Покупка кейсов здесь: HolyWorld.ru
+[16:29:44] [main/INFO]: [CHAT] ◀                               Лайт-41                                ▶
+[16:29:52] [main/INFO]: [CHAT] Автобай выключен.
+[16:30:04] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x10
+[16:30:05] [main/INFO]: [CHAT] ▶ egorsigma221 купил Gunpowder x10 за 199990.
+[16:30:05] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤199990.00
+[16:30:09] [main/INFO]: [CHAT]  ▶ Игрок delv4ik жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #6)
+[16:30:26] [main/INFO]: [CHAT] Автобай включен.
+[16:30:28] [main/INFO]: [CHAT]  ▶ Игрок _RinegGG_ жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #39)
+[16:30:30] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» _Mr_Dok_: зима тебе не кажется что он странно бьет?
+[16:30:41] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : +
+[16:30:45] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: y
+[16:30:46] [main/INFO]: [CHAT]  ▶ Игрок delv4ik ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #6)
+[16:30:52] [main/INFO]: [CHAT] 
+[16:30:52] [main/INFO]: [CHAT] ▶ Защищай сервер и наслаждайся игрой вместе с нами!
+[16:30:52] [main/INFO]: [CHAT]  Присоединяйся к нашей работе,
+[16:30:52] [main/INFO]: [CHAT]  чтобы сделать игру лучше, и получи возможность 
+[16:30:52] [main/INFO]: [CHAT]  принимать участие в закрытых ивентах
+[16:30:52] [main/INFO]: [CHAT]  Жми и оставляй заявку: https://vk.cc/cquCZ7
+[16:30:54] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: _Mr_Dok_ kto?
+[16:31:02] [main/INFO]: [CHAT] Автобай выключен.
+[16:31:05] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:31:19] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Netherite Ingot x1
+[16:31:31] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #22)
+[16:31:33] [main/INFO]: [CHAT] Автобай включен.
+[16:31:34] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Enchanted Golden Apple у игрока absDemonch1k за 200000.
+[16:31:34] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤200000.00
+[16:31:34] [main/INFO]: [CHAT]  ▶ Игрок delv4ik жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #6)
+[16:31:36] [main/INFO]: [CHAT] ɢ | heroNpik: all купите пж меч стингера на моем ахе за 700к монет!
+[16:31:36] [main/INFO]: [CHAT]  ▶ Игрок _RinegGG_ ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #39)
+[16:31:36] [main/INFO]: [CHAT] Автобай выключен.
+[16:31:37] [main/INFO]: [CHAT]  ▶ Игрок IskalMef жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #39)
+[16:31:43] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:31:46] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:31:48] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:31:51] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[16:32:23] [main/INFO]: [CHAT] Автобай включен.
+[16:32:25] [main/INFO]: [CHAT] Автобай выключен.
+[16:32:30] [main/INFO]: [CHAT] ▶ Нужно отыграть 1 ч. для того чтобы пользоваться чатом. (Прошло 39 м. 7 сек.§е)
+[16:32:36] [main/INFO]: [CHAT] ▶ AdorableJudon_ купил Enchanted Golden Apple x1 за 89999.
+[16:32:36] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:32:43] [main/INFO]: [CHAT] ▶ SonuyihPRO купил Netherite Ingot x1 за 89999.
+[16:32:43] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:32:45] [main/INFO]: [CHAT] Автобай включен.
+[16:32:47] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» _Mr_Dok_: а что по сету было?
+[16:32:54] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : хз не я
+[16:33:01] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #22)
+[16:33:03] [main/INFO]: [CHAT] ɢ | Im_super_geniy: кто может дать сет любой пж
+[16:33:06] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : з5 п5
+[16:33:09] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : 1 часть у меня
+[16:33:14] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Gunpowder у игрока yrsxzz за 30000.
+[16:33:14] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤30000.00
+[16:33:21] [main/INFO]: [CHAT]  ▶ Игрок pve_Kapibara_pvp решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #29)
+[16:33:22] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: о класс
+[16:33:23] [main/INFO]: [CHAT] ɢ | heroNpik: all купите пж меч стингера на моем ахе за 700к монет!
+[16:33:28] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока TypicalBoy за 120000.
+[16:33:28] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[16:33:28] [main/INFO]: [CHAT] ɢ | drandulet_na: кароч мр док
+[16:33:30] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока chopik333 за 70000.
+[16:33:30] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:33:33] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока craizi3112 за 40000.
+[16:33:33] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤40000.00
+[16:33:33] [main/INFO]: [CHAT] ɢ | drandulet_na: сет
+[16:33:34] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: снимал хотябы я
+[16:33:37] [main/INFO]: [CHAT]  ▶ Игрок platonboch ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #2)
+[16:33:37] [main/INFO]: [CHAT]  ▶ Игрок dableeyou2x жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:33:39] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока NeKidi за 99999.
+[16:33:39] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤99999.00
+[16:33:39] [main/INFO]: [CHAT] ▶ xdokelyscys купил Enchanted Golden Apple x1 за 89999.
+[16:33:39] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:33:40] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : анлак бро
+[16:33:40] [main/INFO]: [CHAT] ▶ xdokelyscys купил Enchanted Golden Apple x1 за 89999.
+[16:33:40] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:33:41] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Enchanted Golden Apple у игрока SKWIRT_TIXO за 60000.
+[16:33:41] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[16:33:42] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока chopik333 за 70000.
+[16:33:42] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:33:43] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:33:43] [main/INFO]: [CHAT]    GovNaJui выиграл 1000 ☀ ДЖЕКПОТ! из Кейса с сапфирами
+[16:33:43] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[16:33:43] [main/INFO]: [CHAT] ◀                               Лайт-32                                ▶
+[16:33:45] [main/INFO]: [CHAT] ▶ Diinadiy купил Enchanted Golden Apple x1 за 89999.
+[16:33:45] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:33:46] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[16:33:51] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: та сервак лагает
+[16:33:53] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : бывает и такое что зависает
+[16:33:54] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока Gena_Tayllorr за 130000.
+[16:33:54] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤130000.00
+[16:33:59] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: не уменя если что
+[16:33:59] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : мнея так раз 10 кикнуло
+[16:34:07] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: пох , там бомж инв
+[16:34:11] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : +
+[16:34:15] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : я 1 часть залутал
+[16:34:17] [main/INFO]: [CHAT]  ▶ Игрок delv4ik жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #6)
+[16:34:19] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : з5 п5
+[16:34:28] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : я сегодня в смертке облрсался
+[16:34:35] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока qqqaassd за 50000.
+[16:34:35] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:34:37] [main/INFO]: [CHAT] ɢ | «ᴡɪᴛʜᴇʀ» 3uma_B_Cerdce /cheatreport : могу часть трапок и станов вернуть
+[16:34:40] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[16:34:41] [main/INFO]: [CHAT] ɢ | GpysniGast: all продам даблы обсы и копаю на заказ буду через 6 минут буду на 47 анке
+[16:34:50] [main/INFO]: [CHAT] ▶ Вы успешно купили x18 Gunpowder у игрока aika_bika за 320000.
+[16:34:50] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤320000.00
+[16:34:52] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока vlong0709 за 50000.
+[16:34:52] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:35:05] [main/INFO]: [CHAT] Игрок GhoulIrotev09 покончил жизнь самоубийством.
+[16:35:15] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: о , давай
+[16:35:16] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #22)
+[16:35:23] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:35:23] [main/INFO]: [CHAT]    GovNaJui выиграл 1000 ☀ ДЖЕКПОТ! из Кейса с сапфирами
+[16:35:23] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[16:35:23] [main/INFO]: [CHAT] ◀                               Лайт-32                                ▶
+[16:35:32] [main/INFO]: [CHAT] Автобай выключен.
+[16:35:53] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #5)
+[16:36:09] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[16:36:12] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x54
+[16:36:22] [main/INFO]: [CHAT]  ▶ Игрок feri_nik жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #4)
+[16:36:29] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x5
+[16:36:38] [main/INFO]: [CHAT]  ▶ О Господи! serega_122 разорвал в клочья feri_nik! Кровавая битва окончилась победой serega_122!
+[16:37:00] [main/INFO]: [CHAT]  ▶ Игрок carhat2008 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #5)
+[16:37:15] [main/INFO]: [CHAT]  ▶ Игрок platonboch жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #2)
+[16:37:34] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:37:37] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:37:57] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x5
+[16:37:59] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #4)
+[16:38:00] [main/INFO]: [CHAT]  ▶ Игрок IskalMef решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #50)
+[16:38:16] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[16:38:22] [main/INFO]: [CHAT]  ▶ Игрок HDDKing265 ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #37)
+[16:38:40] [main/INFO]: [CHAT] ▶ Frost1YT купил Enchanted Golden Apple x2 за 179998.
+[16:38:40] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179998.00
+[16:38:45] [main/INFO]: [CHAT] ▶ Artyr4ikqp купил Enchanted Golden Apple x1 за 89999.
+[16:38:45] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[16:38:48] [main/INFO]: [CHAT]  ▶ Игрок feri_nik ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #4)
+[16:38:53] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:39:00] [main/INFO]: [CHAT] ▶ ColeMarf купил Enchanted Golden Apple x2 за 179998.
+[16:39:00] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179998.00
+[16:39:03] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x54
+[16:39:07] [main/INFO]: [CHAT]  ▶ О Господи! serega_122 разорвал в клочья feri_nik! Кровавая битва окончилась победой serega_122!
+[16:39:15] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[16:39:25] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x54
+[16:39:28] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x54 за 1079946.
+[16:39:28] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1079946.00
+[16:39:31] [main/INFO]: [CHAT]  ▶ Игрок MIddixPVP жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #21)
+[16:40:25] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:40:33] [main/INFO]: [CHAT] Автобай включен.
+[16:40:49] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока qwistilek1 за 70000.
+[16:40:49] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:40:59] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #4)
+[16:41:02] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #4)
+[16:41:06] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[16:41:29] [main/INFO]: [CHAT]  ▶ Игрок Xycu2228 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #49)
+[16:41:29] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока zaduyan123 за 100000.
+[16:41:29] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:41:49] [main/INFO]: [CHAT] ɢ | DAUNYOU: алл как сойдинеть 2 лег фрери?
+[16:41:53] [main/INFO]: [CHAT] ɢ | DAUNYOU: сфери
+[16:42:09] [main/INFO]: [CHAT]  ▶ Игрок feri_nik решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #4)
+[16:42:15] [main/INFO]: [CHAT]  ▶ Игрок IskalMef жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #50)
+[16:42:20] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока pipisanawhat за 100000.
+[16:42:20] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:42:25] [main/INFO]: [CHAT] ▶ Игрок marcin покинул игру во время ПВП и был наказан.
+[16:42:26] [main/INFO]: [CHAT]  ▶ О Господи! JennyKitty69 разорвал в клочья feri_nik! Кровавая битва окончилась победой JennyKitty69!
+[16:42:26] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #4)
+[16:42:28] [main/INFO]: [CHAT] ɢ | DAUNYOU: алл как сойдинеть 2 лег сфери?
+[16:43:02] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока sdfasfas за 100000.
+[16:43:02] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:43:04] [main/INFO]: [CHAT] ɢ | «ᴋʀᴀᴋᴇɴ» SQ_7: никак
+[16:43:11] [main/INFO]: [CHAT] ɢ | DAUNYOU: бля
+[16:43:16] [main/INFO]: [CHAT] Автобай выключен.
+[16:43:20] [main/INFO]: [CHAT]  ▶ Игрок Im_Unlucky жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:43:27] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x22
+[16:43:39] [main/INFO]: [CHAT]  ▶ Игрок carhat2008 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #2)
+[16:44:10] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #5)
+[16:44:11] [main/INFO]: [CHAT] ▶ reznicnikita купил Gunpowder x22 за 439978.
+[16:44:11] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤439978.00
+[16:44:44] [main/INFO]: [CHAT] Автобай включен.
+[16:45:09] [main/INFO]: [CHAT] ɢ | DAUNYOU: а их можно зделать в тал? или нет
+[16:45:33] [main/INFO]: [CHAT] ɢ | «ᴅᴏᴘᴀᴍɪɴᴇ» tumerr +ᴡ ᴢᴀ ғᴀʀᴍᴇʀᴏᴍ: продам ФАРМЕР 7 , ds tumerr
+[16:45:35] [main/INFO]: [CHAT] Автобай выключен.
+[16:45:37] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[16:45:37] [main/INFO]: [CHAT] ▶ Нужно отыграть 1 ч. для того чтобы пользоваться чатом. (Прошло 52 м. 15 сек.§е)
+[16:45:44] [main/INFO]: [CHAT] ɢ | DAUNYOU: а их можно зделать в тал? или нет
+[16:45:45] [main/INFO]: [CHAT] Команды не существует или у Вас нет доступа к ней, используй /help для помощи.
+[16:45:50] [main/INFO]: [CHAT] Автобай включен.
+[16:45:50] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Обычный талисман у игрока _Mr_Dok_ за 200000.
+[16:45:50] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤200000.00
+[16:45:51] [main/INFO]: [CHAT] Автобай выключен.
+[16:46:05] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Обычный талисман x1
+[16:46:07] [main/INFO]: [CHAT]  ▶ Игрок alf69ch жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #5)
+[16:46:08] [main/INFO]: [CHAT] ▶ KLauncher_otmeuh купил Обычный талисман x1 за 169999.
+[16:46:08] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤169999.00
+[16:46:09] [main/INFO]: [CHAT] Автобай включен.
+[16:46:16] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #5)
+[16:46:27] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока qqqaassd за 77000.
+[16:46:27] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤77000.00
+[16:46:31] [main/INFO]: [CHAT]  ▶ Игрок Im_Unlucky жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #50)
+[16:46:44] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока KopirurkaEzz за 50000.
+[16:46:44] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:47:05] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока QQvser за 70000.
+[16:47:05] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[16:47:10] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока G10t_H0b за 46777.
+[16:47:10] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤46777.00
+[16:47:14] [main/INFO]: [CHAT] ʟ | KLauncher_fngxdl: дай любой меч
+[16:47:15] [main/INFO]: [CHAT]  ▶ Игрок zxc_ogruzok14 жаждет крови для игры в «Смертельная схватка»! Кто же усмирит его пыл? (/pvp list | Лайт #15)
+[16:47:18] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока sdfasfas за 50000.
+[16:47:18] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:47:25] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[16:47:25] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока Im_super_geniy за 60000.
+[16:47:28] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:47:28] [main/INFO]: [CHAT]    Xmobik выиграл 500 ☀ из Кейса с сапфирами
+[16:47:28] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[16:47:28] [main/INFO]: [CHAT] ◀                               Лайт-1                                ▶
+[16:47:32] [main/INFO]: [CHAT]  ▶ Игрок Xycu2228 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:47:34] [main/INFO]: [CHAT]  ▶ Игрок IskalMef жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:47:40] [main/INFO]: [CHAT] ʟ | KLauncher_fngxdl: дай меч любой
+[16:47:48] [main/INFO]: [CHAT]  ▶ Игрок Xycu2228 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #50)
+[16:48:01] [main/INFO]: [CHAT] ʟ | KLauncher_fngxdl: дай мея любой
+[16:48:07] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока oupijyte за 50000.
+[16:48:07] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[16:48:11] [main/INFO]: [CHAT] ʟ | KLauncher_fngxdl: меч
+[16:48:16] [main/INFO]: [CHAT]  ▶ Игрок alf69ch решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #5)
+[16:48:20] [main/INFO]: [CHAT] ɢ | «ᴀᴛᴛᴀᴄʜᴍᴇɴᴛ» Capcha54 verixxzx_<3: ?
+[16:48:21] [main/INFO]: [CHAT] ʟ | Gleb1212345: 1 секунду
+[16:48:31] [main/INFO]: [CHAT] ʟ | «ɢʜᴀsᴛ» sp26druner: просто буду бить
+[16:48:44] [main/INFO]: [CHAT] ▶ Вы успешно купили x41 Enchanted Golden Apple у игрока timaffj за 2665000.
+[16:48:44] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤2665000.00
+[16:48:50] [main/INFO]: [CHAT] ▶ Вы успешно купили x14 Gunpowder у игрока pelimeniXwX за 200000.
+[16:48:50] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤200000.00
+[16:49:00] [main/INFO]: [CHAT] ▶ Вы успешно купили x12 Gunpowder у игрока Dark_Kraken за 120000.
+[16:49:00] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[16:49:05] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока zaduyan123 за 100000.
+[16:49:05] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[16:49:18] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» denchikpis: продам фармер 4 с мечом етернити и фильтром за 200коинов писать в дс denchik1236
+[16:49:18] [main/INFO]: [CHAT] ▶ Вы успешно купили x9 Gunpowder у игрока crivetk9 за 150000.
+[16:49:18] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤150000.00
+[16:49:23] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Enchanted Golden Apple у игрока lloler0 за 299999.
+[16:49:23] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤299999.00
+[16:49:30] [main/INFO]: [CHAT] ▶ Вы успешно купили x9 Gunpowder у игрока crivetk9 за 150000.
+[16:49:30] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤150000.00
+[16:49:43] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока mectmrbeast за 60000.
+[16:49:43] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[16:49:45] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока lontiz1800 за 60000.
+[16:49:45] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[16:49:54] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:49:55] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:49:56] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:50:14] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» soulwounded triple trap: **куплю очеень много стекла! пишите в лс в дс - soulwounded!**
+[16:50:25] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:50:26] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:50:27] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:50:30] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:50:31] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:50:32] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:50:33] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:50:47] [main/INFO]: [CHAT]  ▶ Игрок Sn1kedTwink решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #50)
+[16:50:52] [main/INFO]: [CHAT] 
+[16:50:52] [main/INFO]: [CHAT] ▶ Хочешь влиять на развитие игровой среды?
+[16:50:52] [main/INFO]: [CHAT]  Присоединяйся к нам и помоги создать
+[16:50:52] [main/INFO]: [CHAT]  лучший мир для игры. Новые возможности и интересные 
+[16:50:52] [main/INFO]: [CHAT]  задачи ждут тебя: https://vk.cc/cquCZ7
+[16:51:27] [main/INFO]: [CHAT] ɢ | GestroID_2: на моем ах кирка драгона всего за 400к
+[16:51:31] [main/INFO]: [CHAT] ɢ | VoidWandererr: да заебали
+[16:51:36] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:37] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:38] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:39] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:40] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:51:45] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:46] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:51:47] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:52:11] [main/INFO]: [CHAT]  ▶ Игрок Sn1kedTwink жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:52:21] [main/INFO]: [CHAT] [HAC] Ogur4ikponchik4 был наказан античитом.
+[16:52:29] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:52:30] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:52:31] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:52:32] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:52:33] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:52:41] [main/INFO]: [CHAT] 
+[16:52:41] [main/INFO]: [CHAT] ▶ Ценный груз появится через 3 минуты на рандомных координатах.
+[16:52:41] [main/INFO]: [CHAT] 
+[16:52:58] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:53:00] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:53:00] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:53:01] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:53:09] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:53:10] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:53:18] [main/INFO]: [CHAT]  ▶ Игрок 6HuM9Mars ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #48)
+[16:53:41] [main/INFO]: [CHAT] ɢ | heroNpik: all продам фармилку криперов писать в лс!
+[16:53:50] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #1)
+[16:54:13] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:54:14] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:54:15] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:54:20] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Gunpowder у игрока bot12345nonebot за 16000.
+[16:54:20] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤16000.00
+[16:54:25] [main/INFO]: [CHAT] ɢ | heroNpik: all продам фармилку криперов писать в лс!
+[16:54:27] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:54:28] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:54:38] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:54:39] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:54:43] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Gunpowder у игрока sdfasfas за 20000.
+[16:54:43] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤20000.00
+[16:55:09] [main/INFO]: [CHAT] ɢ | heroNpik: all продам фармилку криперов писать в лс!
+[16:55:28] [main/INFO]: [CHAT]  ▶ Игрок 6HuM9Mars жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #48)
+[16:55:42] [main/INFO]: [CHAT]  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[16:55:42] [main/INFO]: [CHAT]  ▍ Ценный груз
+[16:55:42] [main/INFO]: [CHAT]  ▍
+[16:55:42] [main/INFO]: [CHAT]  ▍ Тип: Взрывной
+[16:55:42] [main/INFO]: [CHAT]  ▍ Координаты: -716 61 807
+[16:55:42] [main/INFO]: [CHAT]  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[16:56:29] [main/INFO]: [CHAT]  ▶ Игрок PaZiTiV33 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #5)
+[16:56:35] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:56:36] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:56:37] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:56:39] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:57:06] [main/INFO]: [CHAT] ɢ | ccigma1234: кто тепе на груз
+[16:57:07] [main/INFO]: [CHAT] ◀                                                                        ▶
+[16:57:07] [main/INFO]: [CHAT]    gdgdef выиграл «sᴛɪɴɢᴇʀ» (1 мес.) из Донат-кейса
+[16:57:07] [main/INFO]: [CHAT]    Удача: +30% | Покупка кейсов здесь: HolyWorld.ru
+[16:57:07] [main/INFO]: [CHAT] ◀                               Лайт-5                                ▶
+[16:57:15] [main/INFO]: [CHAT] [Gleb1212345 -> я] дай пороха плизз
+[16:57:18] [main/INFO]: [CHAT] ɢ | GestroID_2: кто тепнит на груз за 20к
+[16:57:20] [main/INFO]: [CHAT]  ▶ Игрок fallOYW жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #29)
+[16:57:26] [main/INFO]: [CHAT]  ▶ Игрок PaZiTiV33 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #50)
+[16:57:33] [main/INFO]: [CHAT] ɢ | GestroID_2: кто тепнит на груз за 30к
+[16:57:59] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:58:00] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:58:01] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:58:26] [main/INFO]: [CHAT] ɢ | heroNpik: all продам фармилку криперов писать в лс!
+[16:58:26] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:58:27] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:58:29] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:59:00] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:59:01] [main/INFO]: [CHAT] У тебя нет денег на это!
+[16:59:02] [main/INFO]: [CHAT] ▶ Этот предмет нельзя купить, т.к он больше не продается.
+[16:59:05] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #5)
+[16:59:14] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: я в ахуе
+[16:59:35] [main/INFO]: [CHAT] Автобай выключен.
+[16:59:39] [main/INFO]: [CHAT] [Gleb1212345 -> я] дай пороха плизз
+[16:59:49] [main/INFO]: [CHAT] [Gleb1212345 -> я] дай пороха плизз
+[17:00:11] [main/INFO]: [CHAT]  ▶ Игрок Nightflayer1337 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #23)
+[17:00:17] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x45
+[17:00:27] [main/INFO]: [CHAT] ɢ | «ᴅʀᴀɢᴏɴ» smokemachine Любитель денег: /cr OT4ums6 soft
+[17:00:31] [main/INFO]: [CHAT] ▶ spidRAM3000 купил Enchanted Golden Apple x2 за 179998.
+[17:00:31] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179998.00
+[17:00:38] [main/INFO]: [CHAT] ▶ Ksall52 купил Enchanted Golden Apple x43 за 3869957.
+[17:00:38] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤3869957.00
+[17:00:51] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x64
+[17:00:51] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #5)
+[17:00:53] [main/INFO]: [CHAT] ▶ ilgoYT_Anarchy купил Gunpowder x64 за 1279936.
+[17:00:53] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1279936.00
+[17:00:58] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: тепну на груз за 40к
+[17:01:04] [main/INFO]: [CHAT] ɢ | «мл.сотрудник» Akaza3 Следопыт: NeFor4iK_232 тепай
+[17:01:07] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x25
+[17:01:07] [main/INFO]: [CHAT]  ▶ Игрок IskalMef ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #39)
+[17:01:10] [main/INFO]: [CHAT] ▶ oleksii купил Gunpowder x25 за 499975.
+[17:01:10] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤499975.00
+[17:01:14] [main/INFO]: [CHAT] ɢ | «мл.сотрудник» Akaza3 Следопыт: потом бабки скину мне нельзя скамить
+[17:01:16] [main/INFO]: [CHAT] Автобай включен.
+[17:01:19] [main/INFO]: [CHAT] ɢ | drandulet_na: как в ксерони
+[17:01:20] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: деньги вперед
+[17:01:22] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: Akaza3
+[17:01:24] [main/INFO]: [CHAT] ɢ | «мл.сотрудник» Akaza3 Следопыт: потом бабки скину мне нельзя скамить
+[17:01:24] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: а ок
+[17:01:29] [main/INFO]: [CHAT] ɢ | ThIs_Is_LaRsG: Akaza3 чек репорты
+[17:01:36] [main/INFO]: [CHAT] ɢ | «sᴍᴀʀᴛ ᴘᴇʀsᴏɴ» InvisibleBrain 300 ɪᴏ̨ ᴍᴏᴠᴇ: Akaza3 занят?
+[17:01:40] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: спс
+[17:01:40] [main/INFO]: [CHAT] ɢ | «мл.сотрудник» Akaza3 Следопыт: +
+[17:01:49] [main/INFO]: [CHAT] ɢ | GestroID_2: bariball как видишь
+[17:01:55] [main/INFO]: [CHAT] ɢ | bariball: eff
+[17:01:55] [main/INFO]: [CHAT] ɢ | drandulet_na: как в ксерони
+[17:02:10] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока sdfasfas за 70000.
+[17:02:10] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:02:11] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» Inocent:  Ищу тиму предложения в лс ник Inocent
+[17:02:34] [main/INFO]: [CHAT] ◀                                                                        ▶
+[17:02:34] [main/INFO]: [CHAT]    Jakl0514 выиграл 500 ☀ из Кейса с сапфирами
+[17:02:34] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[17:02:34] [main/INFO]: [CHAT] ◀                               Лайт-41                                ▶
+[17:02:34] [main/INFO]: [CHAT] Автобай выключен.
+[17:02:55] [main/INFO]: [CHAT] Автобай включен.
+[17:03:06] [main/INFO]: [CHAT] ▶ Вы успешно купили x63 Gunpowder у игрока saidd за 1100000.
+[17:03:06] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤1100000.00
+[17:03:18] [main/INFO]: [CHAT] ɢ | «мл.сотрудник» Akaza3 Следопыт: mde
+[17:03:22] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: ,_,
+[17:03:22] [main/INFO]: [CHAT] ɢ | «sᴍᴀʀᴛ ᴘᴇʀsᴏɴ» InvisibleBrain 300 ɪᴏ̨ ᴍᴏᴠᴇ: ?
+[17:03:33] [main/INFO]: [CHAT] Автобай выключен.
+[17:03:37] [main/INFO]: [CHAT] ɢ | «sᴍᴀʀᴛ ᴘᴇʀsᴏɴ» InvisibleBrain 300 ɪᴏ̨ ᴍᴏᴠᴇ: ну хуй я грузом
+[17:03:42] [main/INFO]: [CHAT] ɢ | «sᴍᴀʀᴛ ᴘᴇʀsᴏɴ» InvisibleBrain 300 ɪᴏ̨ ᴍᴏᴠᴇ: с*
+[17:03:45] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x64
+[17:03:49] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» LoveMoonsik /suicide pls: Akaza3 ще бан ? )
+[17:03:51] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x64 за 1279936.
+[17:03:51] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1279936.00
+[17:03:52] [main/INFO]: [CHAT] ɢ | GestroID_2: koigi бездарь тупой
+[17:03:53] [main/INFO]: [CHAT] Автобай включен.
+[17:04:07] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: тепну на груз за 40к
+[17:04:29] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: тепну на груз за 40к
+[17:04:32] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Gunpowder у игрока wdasd_awds за 30000.
+[17:04:32] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤30000.00
+[17:04:39] [main/INFO]: [CHAT] ▶ Вы успешно купили x24 Gunpowder у игрока Toniko1122 за 250000.
+[17:04:39] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤250000.00
+[17:04:47] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Enchanted Golden Apple у игрока zlanikin за 140000.
+[17:04:47] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤140000.00
+[17:04:59] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока xmassatela за 40000.
+[17:04:59] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤40000.00
+[17:05:07] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока serfsoup за 90000.
+[17:05:07] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤90000.00
+[17:05:14] [main/INFO]: [CHAT] ▶ Вы успешно купили x64 Gunpowder у игрока Mirik49 за 900000.
+[17:05:14] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤900000.00
+[17:05:24] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока Krippy1986 за 99999.
+[17:05:24] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤99999.00
+[17:05:39] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[17:05:40] [main/INFO]: [CHAT] ▶ Вы успешно купили x13 Gunpowder у игрока ZRG_TAHK за 130000.
+[17:05:40] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤130000.00
+[17:06:05] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока Yroslav4uk12 за 100000.
+[17:06:05] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[17:06:17] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока kago1515 за 70000.
+[17:06:17] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:06:30] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: тепну на груз за 40к
+[17:06:34] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #5)
+[17:06:57] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[17:07:15] [main/INFO]: [CHAT] Автобай выключен.
+[17:07:24] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #22)
+[17:07:26] [main/INFO]: [CHAT]  ▶ Игрок chel_you_papa решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #4)
+[17:07:42] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x64
+[17:07:44] [main/INFO]: [CHAT] ▶ Maghat купил Gunpowder x64 за 1344000.
+[17:07:44] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1344000.00
+[17:07:45] [main/INFO]: [CHAT]  ▶ Игрок loveryze1 жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[17:07:47] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x64
+[17:07:48] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x64 за 1344000.
+[17:07:48] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1344000.00
+[17:07:52] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #51)
+[17:07:55] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[17:07:56] [main/INFO]: [CHAT] ▶ PvpMacter8967444 купил Enchanted Golden Apple x1 за 89999.
+[17:07:56] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[17:07:57] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x1
+[17:08:00] [main/INFO]: [CHAT] ▶ Kurmet купил Enchanted Golden Apple x1 за 89999.
+[17:08:00] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤89999.00
+[17:08:02] [main/INFO]: [CHAT] Автобай включен.
+[17:08:02] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока dogcat1414 за 70000.
+[17:08:02] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:08:10] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: 40r
+[17:08:12] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока dogcat1414 за 70000.
+[17:08:12] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:08:14] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #51)
+[17:08:17] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: 40к
+[17:08:20] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока dogcat1414 за 70000.
+[17:08:20] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:08:24] [main/INFO]: [CHAT] ▶ Вы успешно купили x2 Gunpowder у игрока timka22852 за 30000.
+[17:08:24] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤30000.00
+[17:08:40] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Enchanted Golden Apple у игрока dogcat1414 за 70000.
+[17:08:40] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤70000.00
+[17:09:03] [main/INFO]: [CHAT]  ▶ Игрок MrPodguznik1 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #22)
+[17:09:04] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока itadori_udg за 90000.
+[17:09:04] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤90000.00
+[17:09:33] [main/INFO]: [CHAT] ɢ | NeFor4iK_232: 40к
+[17:09:41] [main/INFO]: [CHAT] ▶ Вы успешно купили x18 Gunpowder у игрока Dima20160101 за 300000.
+[17:09:41] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤300000.00
+[17:09:45] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Gunpowder у игрока 1X2DED1 за 85000.
+[17:09:45] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤85000.00
+[17:09:47] [main/INFO]: [CHAT] ▶ Вы успешно купили x9 Gunpowder у игрока zxc_meeks за 139999.
+[17:09:47] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤139999.00
+[17:09:47] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #51)
+[17:09:51] [main/INFO]: [CHAT] ▶ Вы успешно купили x19 Gunpowder у игрока misha_0110 за 200000.
+[17:09:51] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤200000.00
+[17:10:01] [main/INFO]: [CHAT] ▶ Вы успешно купили x18 Enchanted Golden Apple у игрока Maxjk991 за 1200000.
+[17:10:01] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤1200000.00
+[17:10:04] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #51)
+[17:10:07] [main/INFO]: [CHAT] ▶ Вы успешно купили x4 Gunpowder у игрока 1X2DED1 за 65000.
+[17:10:07] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤65000.00
+[17:10:13] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока rtt6 за 60000.
+[17:10:13] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[17:10:24] [main/INFO]: [CHAT]  ▶ Игрок fallOYW решил превзойти всех Богов для игры в «Смертельная схватка»! Кто готов сбить с него спесь? (/pvp list | Лайт #5)
+[17:10:37] [main/INFO]: [CHAT] ʟ | lehhha: v/ah sell 58888
+[17:10:42] [main/INFO]: [CHAT] ʟ | mrvivivilka777: ah
+[17:10:45] [main/INFO]: [CHAT]  ▶ Игрок zxc_xleb решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #51)
+[17:10:49] [main/INFO]: [CHAT] ▶ Вы успешно купили x16 Gunpowder у игрока Stiw015 за 160000.
+[17:10:49] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤160000.00
+[17:10:52] [main/INFO]: [CHAT] 
+[17:10:52] [main/INFO]: [CHAT] ▶ Ты - ключ к честной игре!
+[17:10:52] [main/INFO]: [CHAT]  
+[17:10:52] [main/INFO]: [CHAT]  Мы ищем талантливых и преданных игроков, чтобы защитить 
+[17:10:52] [main/INFO]: [CHAT]  наш сервер от нарушителей. Если ты хочешь стать частью команды, 
+[17:10:52] [main/INFO]: [CHAT]  которая делает игру честной и увлекательной для всех,
+[17:10:52] [main/INFO]: [CHAT]  жми заявку: https://vk.cc/cquCZ7
+[17:10:59] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #5)
+[17:11:04] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока 0popa4 за 60000.
+[17:11:04] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[17:11:14] [main/INFO]: [CHAT] Автобай выключен.
+[17:11:41] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x64
+[17:11:51] [main/INFO]: [CHAT]  ▶ Игрок zxc_Fastik123 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #9)
+[17:12:05] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x36
+[17:12:10] [main/INFO]: [CHAT] ▶ xSunForSkilsx купил Gunpowder x64 за 1344000.
+[17:12:10] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1344000.00
+[17:12:22] [main/INFO]: [CHAT]  ▶ Игрок xxxSedikxxx ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #10)
+[17:12:26] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» Shal9n Яхта под ёлкой: продам фармер 7 цена в лс дс - m1roy
+[17:12:34] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x22
+[17:12:46] [main/INFO]: [CHAT] ▶ xSunForSkilsx купил Gunpowder x1 за 21000.
+[17:12:46] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤21000.00
+[17:12:53] [main/INFO]: [CHAT] ▶ Ksall52 купил Enchanted Golden Apple x22 за 1979978.
+[17:12:53] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤1979978.00
+[17:13:17] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #1)
+[17:13:42] [main/INFO]: [CHAT] ▶ Вы успешно сняли предмет с продажи.
+[17:13:57] [main/INFO]: [CHAT]  ▶ Игрок 01_prizrak_10 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #21)
+[17:14:01] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x35
+[17:14:02] [main/INFO]: [CHAT] ▶ AlekseiOO купил Gunpowder x35 за 735000.
+[17:14:02] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤735000.00
+[17:14:05] [main/INFO]: [CHAT] Автобай включен.
+[17:14:07] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока 6HUfLnx8Ri за 120000.
+[17:14:07] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[17:14:22] [main/INFO]: [CHAT] ▶ Вы успешно купили x18 Gunpowder у игрока FoksFlai8589 за 300000.
+[17:14:22] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤300000.00
+[17:14:27] [main/INFO]: [CHAT] ▶ Вы успешно купили x5 Enchanted Golden Apple у игрока BABABOU_ за 250000.
+[17:14:27] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤250000.00
+[17:14:32] [main/INFO]: [CHAT]  ▶ Игрок xxxSedikxxx жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #10)
+[17:14:39] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока PVGRENDA за 60000.
+[17:14:39] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤60000.00
+[17:14:40] [main/INFO]: [CHAT] ʟ | lehhha: t/ah sell 58888
+[17:14:44] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend жаждет испытать свои силы для игры в «Смертельная схватка»! Кто готов скрестить с ним свой меч? (/pvp list | Лайт #1)
+[17:14:50] [Worker-Main-38/ERROR]: Textures payload has been tampered with (signature invalid)
+[17:14:50] [main/INFO]: [CHAT] Автобай выключен.
+[17:14:59] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Enchanted Golden Apple x5
+[17:15:05] [main/INFO]: [CHAT] Автобай включен.
+[17:15:07] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока NP_YArmecha за 120000.
+[17:15:07] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤120000.00
+[17:15:24] [main/INFO]: [CHAT] ▶ impreis купил Enchanted Golden Apple x3 за 269997.
+[17:15:24] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤269997.00
+[17:15:32] [main/INFO]: [CHAT] ▶ bubushizm купил Enchanted Golden Apple x2 за 179998.
+[17:15:32] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤179998.00
+[17:15:33] [main/INFO]: [CHAT] ʟ | lehhha: v
+[17:15:34] [main/INFO]: [CHAT] ▶ Вы успешно купили x3 Gunpowder у игрока Zloy_4EB7PELA за 50000.
+[17:15:34] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤50000.00
+[17:15:43] [main/INFO]: [CHAT] ▶ Вы успешно купили x7 Gunpowder у игрока mazik001 за 90000.
+[17:15:43] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤90000.00
+[17:15:51] [main/INFO]: [CHAT] Автобай выключен.
+[17:16:00] [main/INFO]: [CHAT]  ▶ Игрок xxxSedikxxx жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #10)
+[17:16:05] [main/INFO]: [CHAT]  ▶ Игрок cotara_123234 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #21)
+[17:16:19] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x49
+[17:16:23] [main/INFO]: [CHAT] ▶ mister_hustle купил Gunpowder x49 за 979951.
+[17:16:23] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤979951.00
+[17:16:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:16:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:16:48] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:16:48] [main/INFO]: Loaded 0 advancements
+[17:16:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:16:53] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:16:54] [main/INFO]: Loaded 0 advancements
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[17:16:54] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[17:16:54] [main/INFO]: [CHAT]       
+[17:16:54] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[17:16:54] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[17:16:54] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[17:16:54] [main/INFO]: [CHAT] ▍ 
+[17:16:54] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[17:16:54] [main/INFO]: [CHAT]    
+[17:16:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:16:58] [main/INFO]: [CHAT] Казино включено.
+[17:16:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 0
+[17:17:07] [main/INFO]: [CHAT]  ▶ Игрок xxxSedikxxx жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #10)
+[17:17:29] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 0
+[17:17:36] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:17:39] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:17:39] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:17:42] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:17:46] [main/INFO]: [CHAT] ɢ | LUBLUJAMSHUTA2: апхахпх гений
+[17:17:47] [main/INFO]: [CHAT] [я -> Anastasia2013] удача вас любит) вы заработали 12500.0
+[17:17:47] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:17:50] [main/INFO]: [CHAT] ▶ Игрок Dima20160101 отправил вам 10000.00 монеток
+[17:17:55] [main/INFO]: [CHAT] [я -> Dima20160101] к сожалению вы проиграли(
+[17:17:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 3
+[17:18:01] [main/INFO]: [CHAT] ʟ | «ᴅʀᴀɢᴏɴ» Timurtop70: tapemous
+[17:18:07] [main/INFO]: [CHAT] ʟ | «ᴅʀᴀɢᴏɴ» Timurtop70: .tapemous 20
+[17:18:08] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:18:08] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:18:08] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:18:08] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #51)
+[17:18:16] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:18:19] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:18:21] [main/INFO]: [CHAT] ɢ | «sᴛɪɴɢᴇʀ» mak445 [ɪɴғɪɴɪᴛʏ]: хз просто летел искать данжы
+[17:18:24] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:18:25] [main/INFO]: [CHAT] ▶ Игрок LUBLUJAMSHUTA2 отправил вам 1.00 монеток
+[17:18:29] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 6
+[17:18:29] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:18:37] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:18:41] [main/INFO]: [CHAT]  ▶ Игрок DeadGuy389 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #49)
+[17:18:44] [main/INFO]: [CHAT] Автобай включен.
+[17:18:55] [main/INFO]: [CHAT] ▶ Вы успешно купили x8 Gunpowder у игрока nokko за 140000.
+[17:18:55] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤140000.00
+[17:18:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 7
+[17:19:03] [main/INFO]: [CHAT] ʟ | ODIN_XxX: даш еще пж
+[17:19:13] [main/INFO]: [CHAT] ▶ Вы успешно купили x1 Gunpowder у игрока babedgon за 10000.
+[17:19:13] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤10000.00
+[17:19:15] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока itadori_udg за 100000.
+[17:19:15] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[17:19:27] [main/INFO]: [CHAT] Автобай выключен.
+[17:19:29] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 7
+[17:19:45] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x15
+[17:19:48] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:19:49] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:19:49] [main/INFO]: [CHAT] ▶ 312lll купил Gunpowder x15 за 299985.
+[17:19:49] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤299985.00
+[17:19:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 7
+[17:20:00] [main/INFO]: [CHAT] ▶ У вас нет столько монет
+[17:20:00] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[17:20:02] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #15)
+[17:20:09] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:20:09] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:20:12] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:20:14] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:20:14] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:20:14] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» absolut_13: спасибо
+[17:20:15] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:20:17] [main/INFO]: [CHAT] [я -> Anastasia2013] удача вас любит) вы заработали 12500.0
+[17:20:17] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:20:19] [main/INFO]: [CHAT] ▶ Игрок Anastasia2013 отправил вам 10000.00 монеток
+[17:20:25] [main/INFO]: [CHAT] [я -> Anastasia2013] к сожалению вы проиграли(
+[17:20:29] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 10
+[17:20:42] [main/INFO]: [CHAT] ▶ Игрок LUBLUJAMSHUTA2 отправил вам 10000.00 монеток
+[17:20:42] [main/INFO]: [CHAT] [я -> LUBLUJAMSHUTA2] к сожалению вы проиграли(
+[17:20:50] [main/INFO]: [CHAT] ▶ Игрок LUBLUJAMSHUTA2 отправил вам 10000.00 монеток
+[17:20:50] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:20:51] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:20:51] [main/INFO]: [CHAT] [я -> LUBLUJAMSHUTA2] удача вас любит) вы заработали 12500.0
+[17:20:51] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:20:51] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:20:55] [main/INFO]: [CHAT] ▶ Игрок Koteito отправил вам 500000.00 монеток
+[17:20:58] [main/INFO]: [CHAT] [я -> Koteito] к сожалению вы проиграли(
+[17:20:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 13
+[17:21:01] [main/INFO]: [CHAT] ▶ Игрок LUBLUJAMSHUTA2 отправил вам 11111.00 монеток
+[17:21:05] [main/INFO]: [CHAT] ʟ | «ᴋʀᴀᴋᴇɴ» Dima20160101: бля ща
+[17:21:05] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» absolut_13: что?
+[17:21:07] [main/INFO]: [CHAT] [я -> LUBLUJAMSHUTA2] удача вас любит) вы заработали 13888.75
+[17:21:07] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:21:08] [main/INFO]: [CHAT] ▶ Игрок Koteito отправил вам 300000.00 монеток
+[17:21:15] [main/INFO]: [CHAT] [я -> Koteito] удача вас любит) вы заработали 375000.0
+[17:21:15] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:21:29] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 15
+[17:21:31] [main/INFO]: [CHAT]  ▶ Игрок Djorno_ жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[17:21:35] [main/INFO]: [CHAT] ▶ Игрок GioraCh отправил вам 10000.00 монеток
+[17:21:37] [main/INFO]: [CHAT] [я -> GioraCh] к сожалению вы проиграли(
+[17:21:58] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:21:58] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:21:59] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 16
+[17:21:59] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:22:03] [main/INFO]: [CHAT] Казино выключено.
+[17:22:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:05] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:22:05] [main/INFO]: Loaded 0 advancements
+[17:22:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:10] [main/INFO]: [CHAT] Не удалось подключиться к серверу lanarchy: Сервер заполнен. Пожалуйста зайдите через некоторое время.
+[17:22:10] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:22:10] [main/INFO]: Loaded 0 advancements
+[17:22:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:15] [main/INFO]: [CHAT] Не удалось подключиться к серверу lanarchy: Сервер заполнен. Пожалуйста зайдите через некоторое время.
+[17:22:15] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:22:15] [main/INFO]: Loaded 0 advancements
+[17:22:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:19] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:22:19] [main/INFO]: Loaded 0 advancements
+[17:22:19] [main/WARN]: Received passengers for unknown entity
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[17:22:19] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[17:22:19] [main/INFO]: [CHAT]       
+[17:22:19] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[17:22:19] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[17:22:19] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[17:22:19] [main/INFO]: [CHAT] ▍ 
+[17:22:19] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[17:22:19] [main/INFO]: [CHAT]    
+[17:22:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:22] [main/INFO]: [CHAT] Казино включено.
+[17:22:22] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 0
+[17:22:35] [main/INFO]: [CHAT] ▶ Игрок toxyk_fan отправил вам 20000.00 монеток
+[17:22:35] [main/INFO]: [CHAT] [я -> toxyk_fan] к сожалению вы проиграли(
+[17:22:35] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[17:22:36] [main/INFO]: [CHAT] ▶ Игрок toxyk_fan отправил вам 20000.00 монеток
+[17:22:40] [main/INFO]: [CHAT] ▶ Игрок toxyk_fan отправил вам 20000.00 монеток
+[17:22:43] [main/INFO]: [CHAT] [я -> toxyk_fan] к сожалению вы проиграли(
+[17:22:50] [main/INFO]: [CHAT]  ▶ Игрок xxxSedikxxx жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #2)
+[17:22:51] [main/INFO]: [CHAT] [я -> toxyk_fan] к сожалению вы проиграли(
+[17:22:52] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 3
+[17:23:04] [main/INFO]: [CHAT] ʟ | Dora_Nemama: что
+[17:23:05] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:06] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:07] [main/INFO]: [CHAT] Казино выключено.
+[17:23:07] [main/INFO]: [CHAT] Казино включено.
+[17:23:07] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 0
+[17:23:13] [main/INFO]: [CHAT] ɢ | «ɢʀɪᴇғᴇʀ» g1eto: Eldor_the_Great действуй
+[17:23:21] [main/INFO]: [CHAT] ɢ | ZaweBoost: soso
+[17:23:27] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:28] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:28] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:29] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:30] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:23:30] [main/INFO]: [CHAT] ɢ | «стᴀжᴇр» Eldor_the_Great гитара: Что?
+[17:23:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:33] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:23:33] [main/INFO]: Loaded 0 advancements
+[17:23:37] [main/INFO]: [CHAT] Лобби ▶ Чат отключен!
+[17:23:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:39] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:23:39] [main/INFO]: Loaded 0 advancements
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[17:23:39] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[17:23:39] [main/INFO]: [CHAT]       
+[17:23:39] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[17:23:39] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[17:23:39] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[17:23:39] [main/INFO]: [CHAT] ▍ 
+[17:23:39] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[17:23:39] [main/INFO]: [CHAT]    
+[17:23:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:42] [main/INFO]: [CHAT] ɢ | «ɢʜᴀsᴛ» FotGun: Чек мой /ah player FotGun кирки и мотыги по дешевке.
+[17:23:44] [main/INFO]: [CHAT] ɢ | ZaweBoost: q
+[17:23:46] [main/INFO]: [CHAT]  ▶ Игрок oskoorb1no4ka жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[17:23:47] [main/INFO]: [CHAT] Казино выключено.
+[17:23:48] [main/INFO]: [CHAT] Казино включено.
+[17:23:48] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 0
+[17:23:48] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #15)
+[17:23:49] [main/INFO]: [CHAT] ▶ Игрок darddfd отправил вам 1000.00 монеток
+[17:23:51] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: я на спавне ес че
+[17:23:59] [main/INFO]: [CHAT] ʟ | kapirka: все
+[17:24:08] [main/INFO]: [CHAT] ʟ | BabkaZina: го возле дк
+[17:24:10] [main/INFO]: [CHAT]  ▶ Игрок xTheRevolution решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #46)
+[17:24:11] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 10000.00 монеток
+[17:24:11] [main/INFO]: [CHAT] [я -> MaterialLion] удача вас любит) вы заработали 12500.0
+[17:24:11] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:24:14] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: го
+[17:24:18] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 1
+[17:24:23] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 10000.00 монеток
+[17:24:26] [main/INFO]: [CHAT] [я -> MaterialLion] удача вас любит) вы заработали 12500.0
+[17:24:26] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:24:30] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: ку
+[17:24:31] [main/INFO]: [CHAT] ɢ | dimka228244: продайте огнестойкость
+[17:24:32] [main/INFO]: [CHAT] ʟ | «sᴛɪɴɢᴇʀ» Wendeta Ангел: помоги
+[17:24:36] [main/INFO]: [CHAT] ʟ | BabkaZina: ку
+[17:24:36] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:24:36] [main/INFO]: [CHAT] ʟ | «sᴛɪɴɢᴇʀ» Wendeta Ангел: давай чела сольем
+[17:24:37] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:24:38] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: щя сек, глобал чат выключу
+[17:24:39] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:24:40] [main/INFO]: [CHAT]  ▶ Игрок Im_Ne_SoFt12345 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #51)
+[17:24:44] [main/INFO]: [CHAT]  ▶ Игрок Disphoriya решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #5)
+[17:24:44] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:24:46] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:24:48] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 5
+[17:24:48] [main/INFO]: [CHAT] ʟ | BabkaZina: а какф?
+[17:24:55] [main/INFO]: [CHAT] ʟ | BabkaZina: а как?
+[17:24:55] [main/INFO]: [CHAT] ◀                                                                        ▶
+[17:24:55] [main/INFO]: [CHAT]    CBO22 выиграл 500 ☀ из Кейса с сапфирами
+[17:24:55] [main/INFO]: [CHAT]    Покупка кейсов здесь: HolyWorld.ru
+[17:24:55] [main/INFO]: [CHAT] ◀                               Лайт-1                                ▶
+[17:24:56] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:24:58] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:25:01] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: chatoggle
+[17:25:04] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:25:04] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: команда
+[17:25:06] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:25:09] [main/INFO]: [CHAT] ɢ | «ɢʀɪᴇғᴇʀ» Anchous1k: коплю на мечту 0/100000
+[17:25:12] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:25:14] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:25:15] [main/INFO]: [CHAT] ɢ | soikmon: А когда следущая игра
+[17:25:18] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 8
+[17:25:26] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:25:28] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 20000.00 монеток
+[17:25:30] [main/INFO]: [CHAT]  ▶ Игрок capybara_legend ищет себе достойного оппонента для игры в «Смертельная схватка», кто же осмелится дать ему отпор? (/pvp list | Лайт #1)
+[17:25:33] [main/INFO]: [CHAT] ʟ | BabkaZina: пон
+[17:25:34] [main/INFO]: [CHAT] [я -> MaterialLion] к сожалению вы проиграли(
+[17:25:36] [main/INFO]: [CHAT] ɢ | kapirka: кто найдет меня и каснется получит 200 к рядом с автошахтой
+[17:25:40] [main/INFO]: [CHAT] ʟ | «ᴇᴛᴇʀɴɪᴛʏ» ~fucked: скок лет?
+[17:25:41] [main/INFO]: [CHAT] ʟ | BabkaZina: нету доступа(
+[17:25:42] [main/INFO]: [CHAT] ▶ Игрок MaterialLion отправил вам 31153.00 монеток
+[17:25:42] [main/INFO]: [CHAT] [я -> MaterialLion] удача вас любит) вы заработали 38941.25
+[17:25:42] [main/INFO]: [CHAT] ▶ Деньги успешно отправлены.
+[17:25:46] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #15)
+[17:25:49] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 10
+[17:25:51] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» arbuz898 [ʟᴇɢᴇɴᴅ]: не доконца написал
+[17:26:02] [main/INFO]: [CHAT] ɢ | «ɢʀɪᴇғᴇʀ» Anchous1k: спс
+[17:26:03] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» arbuz898 [ʟᴇɢᴇɴᴅ]: стой
+[17:26:07] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» arbuz898 [ʟᴇɢᴇɴᴅ]: ты где живешь
+[17:26:12] [main/INFO]: [CHAT] ʟ | «ᴡɪᴛʜᴇʀ» arbuz898 [ʟᴇɢᴇɴᴅ]: в какой стране
+[17:26:18] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 10
+[17:26:25] [main/INFO]: [CHAT] ʟ | «ɢʜᴀsᴛ» njov5782: в москве
+[17:26:34] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:35] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:36] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:37] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:39] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:40] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:48] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя сломать этот блок здесь.
+[17:26:48] [main/INFO]: [CHAT] ɢ | ZaweBoost: Привет, я казино бот! Испытай свою удачу и заработай монет! /pay ZaweBoost (сумма), если тебе повезет то ты сможешь умножить свои деньги! (мин ставка = 10000) игр сыграно - 10
+[17:26:49] [main/INFO]: [CHAT]  ▶ Игрок zxc_Artem_zxc3 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #51)
+[17:26:51] [main/INFO]: [CHAT] ɢ | kapirka: кто найдет меня получит 200к рядом с автошахтой
+[17:26:56] [main/INFO]: [CHAT]  ▶ Игрок Disphoriya жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #5)
+[17:27:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:01] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:27:02] [main/INFO]: Loaded 0 advancements
+[17:27:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:08] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:27:09] [main/INFO]: Loaded 0 advancements
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[17:27:09] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[17:27:09] [main/INFO]: [CHAT]       
+[17:27:09] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[17:27:09] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[17:27:09] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[17:27:09] [main/INFO]: [CHAT] ▍ 
+[17:27:09] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[17:27:09] [main/INFO]: [CHAT]    
+[17:27:09] [main/INFO]: [CHAT]  ▶ Вы покинули территорию игрока ny_kto_pyknyl
+[17:27:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:13] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:27:13] [main/INFO]: Loaded 0 advancements
+[17:27:18] [main/INFO]: [CHAT] Лобби ▶ Чат отключен!
+[17:27:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:20] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:27:20] [main/INFO]: Loaded 0 advancements
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT] ◢ Прямо сейчас идет набор
+[17:27:20] [main/INFO]: [CHAT] ◤ в команду проекта на должность Стажёра! 
+[17:27:20] [main/INFO]: [CHAT]       
+[17:27:20] [main/INFO]: [CHAT] ▍ Если ты уже давно играешь на проекте
+[17:27:20] [main/INFO]: [CHAT] ▍ и хочешь помочь нам в борьбе с нарушителями
+[17:27:20] [main/INFO]: [CHAT] ▍ то оставь свою заявку здесь: 
+[17:27:20] [main/INFO]: [CHAT] ▍ 
+[17:27:20] [main/INFO]: [CHAT] ▍ https://vk.com/topic-218242840_49651830
+[17:27:20] [main/INFO]: [CHAT]    
+[17:27:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:22] [main/INFO]: [CHAT] Вы получили блокировку чата от anhedonie по причине 3.14 https://skr.sh/sSLLHMp0WZe
+[17:27:22] [main/INFO]: [CHAT] Мут продлится 7 ч. 59 мин..
+[17:27:26] [main/INFO]: [CHAT] Казино выключено.
+[17:27:26] [main/INFO]: [CHAT] Казино включено.
+[17:27:26] [main/INFO]: [CHAT] Вас замутил anhedonie по причине: 3.14 https://skr.sh/sSLLHMp0WZe 
+[17:27:26] [main/INFO]: [CHAT] Вы сможете писать в чат через 7 ч. 59 мин..
+[17:27:29] [main/INFO]: [CHAT] Казино выключено.
+[17:27:38] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #15)
+[17:27:38] [main/INFO]: [CHAT] Автобай включен.
+[17:27:43] [main/INFO]: [CHAT] ɢ | boband: а ты длбоёб
+[17:27:51] [main/INFO]: [CHAT]  ▶ Игрок DeadGuy389 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #49)
+[17:28:00] [main/INFO]: [CHAT]  ▶ Игрок Im_Ne_SoFt12345 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #51)
+[17:28:03] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока ddmatveyfu5 за 100000.
+[17:28:03] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤100000.00
+[17:28:08] [main/INFO]: [CHAT] ɢ | boband: а ты длбоёб блять не понятно
+[17:28:27] [main/INFO]: [CHAT] ▶ Вы успешно выставили на продажу Gunpowder x6
+[17:28:28] [main/INFO]: [CHAT] Казино включено.
+[17:28:28] [main/INFO]: [CHAT] Вас замутил anhedonie по причине: 3.14 https://skr.sh/sSLLHMp0WZe 
+[17:28:28] [main/INFO]: [CHAT] Вы сможете писать в чат через 7 ч. 58 мин..
+[17:28:29] [main/INFO]: [CHAT] ɢ | «ᴋʀᴀᴋᴇɴ» medkitezz: на координатах -500 ... -500 я оставил сундук с пвп сетом в нем есть незер броня и т.п удачи найти (какое измерение решать вам
+[17:28:29] [main/INFO]: [CHAT] Казино выключено.
+[17:28:31] [main/INFO]: [CHAT] ▶ KLauncher_uhpsdm купил Gunpowder x6 за 126000.
+[17:28:31] [main/INFO]: [CHAT] ▶ Ваш баланс пополнен на ¤126000.00
+[17:28:35] [main/INFO]: [CHAT]  ▶ Игрок Disphoriya жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #5)
+[17:28:42] [main/INFO]: [CHAT]  ▶ Игрок ddfg0 жаждет крови для игры в «Поединок»! Кто же усмирит его пыл? (/pvp list | Анархия #10)
+[17:28:43] [main/INFO]: [CHAT] Автобай выключен.
+[17:28:45] [main/INFO]: [CHAT] Автобай включен.
+[17:29:06] [main/INFO]: [CHAT] ▶ Вы успешно купили x6 Gunpowder у игрока X_ROS_4 за 79999.
+[17:29:06] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤79999.00
+[17:29:06] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» Mr_Solomaxa B Ax%e: Proshka34 сын собаки
+[17:29:12] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» Mr_Solomaxa B Ax%e: соси мусор нищенка
+[17:29:12] [main/INFO]: [CHAT] ▶ Вы успешно купили x10 Gunpowder у игрока satoruki за 150000.
+[17:29:12] [main/INFO]: [CHAT] ▶ С вашего баланса списано ¤150000.00
+[17:29:34] [main/INFO]: [CHAT] Автобай выключен.
+[17:29:35] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #15)
+[17:29:37] [main/INFO]: [CHAT] Режим полета включен для ZaweBoost.
+[17:29:37] [main/INFO]: [CHAT] 
+[17:29:37] [main/INFO]: [CHAT] ▶ Вы подозреватесь в использовании читов, поэтому были заморожены!
+[17:29:37] [main/INFO]: [CHAT] 
+[17:29:37] [main/INFO]: [CHAT]  Чтобы разморзить себя и не получить бан, у Вас есть 7 мин., чтобы отправить свой логин AnyDesk в чат (Кликабельно: www.anydesk.com/ru) и пройти проверку. 
+[17:29:37] [main/INFO]: [CHAT] 
+[17:29:37] [main/INFO]: [CHAT]  В случае отказа/выхода/игнора - блокировка аккаунта
+[17:29:37] [main/INFO]: [CHAT] 
+[17:29:42] [main/INFO]: [CHAT] [_Artyfan4ik_ -> я] Это проверка на ЗПО! У тебя есть РОВНО 7 минут, чтобы скинуть мне свой AnyDesk в ЛИЧНЫЕ СООБЩЕНИЯ!
+[17:29:42] [main/INFO]: [CHAT] [_Artyfan4ik_ -> я] Если у тебя есть читы/запрещённые моды, программы и тому подобное, то ты можешь ПРИЗНАТЬСЯ в этом. Cрок наказания сократится с 30 до 20 дней!
+[17:29:42] [main/INFO]: [CHAT] [_Artyfan4ik_ -> я] Тебе НЕОБХОДИМО установить AnyDesk. Для установки тебе нужно зайти в браузер и написать в поиске "AnyDesk", после чего нажать "Скачать" и отправить КОД мне в ЛИЧНЫЕ СООБЩЕНИЯ!
+[17:29:45] [main/INFO]: [CHAT] ɢ | «ᴅʀᴀɢᴏɴ» Not_Edison_Pts_: -элитры...
+[17:29:52] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» zilla123_YT O_o: whiteley
+[17:29:52] [main/INFO]: [CHAT]  ▶ Игрок infes1 жаждет испытать свои силы для игры в «Поединок»! Кто готов скрестить с ним свой меч? (/pvp list | Анархия #16)
+[17:29:53] [main/INFO]: [CHAT] ɢ | «ᴋʀᴀᴋᴇɴ» medkitezz: :/
+[17:29:59] [main/INFO]: [CHAT] 
+[17:29:59] [main/INFO]: [CHAT] ▶ Вы подозреватесь в использовании читов, поэтому были заморожены!
+[17:29:59] [main/INFO]: [CHAT] 
+[17:29:59] [main/INFO]: [CHAT]  Чтобы разморзить себя и не получить бан, у Вас есть 7 мин., чтобы отправить свой логин AnyDesk в чат (Кликабельно: www.anydesk.com/ru) и пройти проверку. 
+[17:29:59] [main/INFO]: [CHAT] 
+[17:29:59] [main/INFO]: [CHAT]  В случае отказа/выхода/игнора - блокировка аккаунта
+[17:29:59] [main/INFO]: [CHAT] 
+[17:30:03] [main/INFO]: [CHAT] ɢ | «ᴋᴏɴᴡᴇʀs❤» Last914 Berserk: zilla123_YT уя
+[17:30:11] [main/INFO]: [CHAT] ◀                                                                        ▶
+[17:30:11] [main/INFO]: [CHAT]    riran выиграл «ᴇᴛᴇʀɴɪᴛʏ» (1 мес.) из Донат-кейса
+[17:30:11] [main/INFO]: [CHAT]    Удача: +15% | Покупка кейсов здесь: HolyWorld.ru
+[17:30:11] [main/INFO]: [CHAT] ◀                               Лайт-23                                ▶
+[17:30:13] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» zilla123_YT O_o: Last914 ты кто
+[17:30:20] [main/INFO]: [CHAT] ɢ | «ᴋᴏɴᴡᴇʀs❤» Last914 Berserk: ez
+[17:30:23] [main/INFO]: [CHAT] ʟ | ZaweBoost: ?
+[17:30:27] [main/INFO]: [CHAT] ʟ | «вед.сотрудник» _Artyfan4ik_ Надзиратель: Проверка на читы, ожидаю ваш анидеск
+[17:30:29] [main/INFO]: [CHAT] 
+[17:30:29] [main/INFO]: [CHAT] ▶ Вы подозреватесь в использовании читов, поэтому были заморожены!
+[17:30:29] [main/INFO]: [CHAT] 
+[17:30:29] [main/INFO]: [CHAT]  Чтобы разморзить себя и не получить бан, у Вас есть 7 мин., чтобы отправить свой логин AnyDesk в чат (Кликабельно: www.anydesk.com/ru) и пройти проверку. 
+[17:30:29] [main/INFO]: [CHAT] 
+[17:30:29] [main/INFO]: [CHAT]  В случае отказа/выхода/игнора - блокировка аккаунта
+[17:30:29] [main/INFO]: [CHAT] 
+[17:30:35] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» zilla123_YT O_o: whiteley alo
+[17:30:36] [main/INFO]: [CHAT] ɢ | «ᴅʀᴀɢᴏɴ» Not_Edison_Pts_: нн какойто
+[17:30:54] [main/INFO]: [CHAT] 
+[17:30:54] [main/INFO]: [CHAT] ▶ Открой новый мир возможностей для работы и веселья!
+[17:30:54] [main/INFO]: [CHAT]  Присоединяйся к нашей команде,
+[17:30:54] [main/INFO]: [CHAT]  чтобы помочь защитить сервер и принять
+[17:30:54] [main/INFO]: [CHAT]  участие в закрытых ивентах. Здесь ты найдешь не только 
+[17:30:54] [main/INFO]: [CHAT]  новых друзей, но и увлекательную работу: https://vk.cc/cquCZ7
+[17:30:59] [main/INFO]: [CHAT] 
+[17:30:59] [main/INFO]: [CHAT] ▶ Вы подозреватесь в использовании читов, поэтому были заморожены!
+[17:30:59] [main/INFO]: [CHAT] 
+[17:30:59] [main/INFO]: [CHAT]  Чтобы разморзить себя и не получить бан, у Вас есть 7 мин., чтобы отправить свой логин AnyDesk в чат (Кликабельно: www.anydesk.com/ru) и пройти проверку. 
+[17:30:59] [main/INFO]: [CHAT] 
+[17:30:59] [main/INFO]: [CHAT]  В случае отказа/выхода/игнора - блокировка аккаунта
+[17:30:59] [main/INFO]: [CHAT] 
+[17:31:07] [main/INFO]: [CHAT]  ▶ Игрок DeadGuy389 решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #47)
+[17:31:13] [main/INFO]: [CHAT]  ▶ Игрок abobaaa743 ищет себе достойного оппонента для игры в «Поединок», кто же осмелится дать ему отпор? (/pvp list | Анархия #15)
+[17:31:14] [main/INFO]: [CHAT] ʟ | ZaweBoost: soso или popo?
+[17:31:18] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[17:31:20] [main/INFO]: [CHAT] ʟ | «вед.сотрудник» _Artyfan4ik_ Надзиратель: хз
+[17:31:20] [main/INFO]: [CHAT] Хей! Извините, но Вам нельзя PvP здесь.
+[17:31:21] [main/INFO]: [CHAT]  ▶ Игрок Iamnotbe решил превзойти всех Богов для игры в «Поединок»! Кто готов сбить с него спесь? (/pvp list | Анархия #5)
+[17:31:24] [main/INFO]: [CHAT] ʟ | ZaweBoost: soso или popo?
+[17:31:29] [main/INFO]: [CHAT] 
+[17:31:29] [main/INFO]: [CHAT] ▶ Вы подозреватесь в использовании читов, поэтому были заморожены!
+[17:31:29] [main/INFO]: [CHAT] 
+[17:31:29] [main/INFO]: [CHAT]  Чтобы разморзить себя и не получить бан, у Вас есть 7 мин., чтобы отправить свой логин AnyDesk в чат (Кликабельно: www.anydesk.com/ru) и пройти проверку. 
+[17:31:29] [main/INFO]: [CHAT] 
+[17:31:29] [main/INFO]: [CHAT]  В случае отказа/выхода/игнора - блокировка аккаунта
+[17:31:29] [main/INFO]: [CHAT] 
+[17:31:35] [main/INFO]: [CHAT] ʟ | «вед.сотрудник» _Artyfan4ik_ Надзиратель: жду анидеск, подобные вопросы буду считать как отказ от проверки
+[17:31:37] [main/INFO]: [CHAT] ɢ | «ᴇᴛᴇʀɴɪᴛʏ» zilla123_YT O_o: whiteley ало
+[17:31:49] [main/INFO]: [CHAT] ʟ | ZaweBoost: soso или popo?
+[17:31:52] [main/INFO]: [CHAT] Режим полета выключено для ZaweBoost.
+[17:31:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:31:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:31:52] [main/INFO]: [CHAT] Вы были кикнуты с сервера lanarchy37: Вас забанили на сервере [HolyWorld]\n\nДата бана: 23.10.2024 18:31\n\nЗабанен игроком: _Artyfan4ik_\nпо причине: 2.4 (отказ) | Вопросы? https://vk.com/unexploredhollow \n\nОкончание бана через: 30 дн.\n
+[17:31:52] [main/WARN]: Unknown custom packed identifier: minecraft:register
+[17:31:52] [main/INFO]: Loaded 0 advancements
